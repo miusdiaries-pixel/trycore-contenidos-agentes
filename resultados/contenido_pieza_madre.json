@@ -1,0 +1,471 @@
+{
+    "titulo": "Guía de Automatización Robótica de Procesos RPA • Trycore",
+    "descripcion": "Con nuestra guía RPA podrás conocer la información relacionada de esta tecnología y la mejor manera para identificar los procesos.",
+    "secciones": [
+        {
+            "titulo": "Introducción",
+            "implicita": true,
+            "subtitulos": [
+                "Todo lo que debes saber sobre este tipo de automatización robótica de tareas."
+            ],
+            "parrafos": [
+                "Índice de contenidos",
+                "Guía de automatización RPA",
+                "¿Qué pasaría si rutinarias acciones como almacenar, recuperar, manipular, transmitir datos, entre otras, fueran elaboradas por una tecnología de software?",
+                "Con Robotic Process Automation (RPA), puedes automatizar tareas repetitivas, simples y con un alto volumen de ejecución. Los bots trabajan desde el sistema de la organización, simulando y replicando las acciones humanas de manera automática.",
+                "Sabemos que tu objetivo es hacer que tu compañía sea más competitiva y por esta razón, queremos compartirte las características más importantes de RPA.",
+                "La tecnología RPA tiene el potencial de transformar el lugar de trabajo de forma dramática, ya que es posible obtener un retorno a la inversión tan solo en un año. La automatización robótica de procesos es una forma de automatizar procesos repetitivos, en ocasiones basados en reglas: desde el front hasta el back en los modelos operativos retenidos y subcontratados. Las características más destacadas y claves para la empresa puedes encontrar:"
+            ],
+            "items": [
+                "Inicio",
+                "Software codificado por computadora",
+                "Programas que imitan la interacción humana con aplicaciones.",
+                "Aplicación multifuncional",
+                "Fuerza laboral virtual controlada por operaciones comerciales",
+                "Ágil y no invasivo, funciona con la arquitectura y el gobierno de TI existentes"
+            ],
+            "palabras": 193
+        },
+        {
+            "titulo": "¿Qué es RPA?",
+            "implicita": false,
+            "subtitulos": [
+                "El inicio del cambio"
+            ],
+            "parrafos": [
+                "RPA tiene el potencial de transformar la metodología de trabajo y de impulsar de la transformación que propone la industria 4.0, además, es posible obtener un retorno a la inversión tan solo en un año.",
+                "La automatización robótica de procesos es una forma de automatizar procesos repetitivos, en ocasiones basados ​​en reglas: desde el front hasta el back en los modelos operativos retenidos y subcontratados."
+            ],
+            "items": [],
+            "palabras": 66
+        },
+        {
+            "titulo": "Características de la automatización robótica de procesos (RPA)",
+            "implicita": false,
+            "subtitulos": [],
+            "parrafos": [
+                "La tecnología RPA tiene el potencial de transformar el lugar de trabajo de forma dramática, ya que es posible obtener un retorno a la inversión tan solo en un año. La automatización robótica de procesos es una forma de automatizar procesos repetitivos, en ocasiones basados ​​en reglas: desde el front hasta el back en los modelos operativos retenidos y subcontratados. Las características más destacadas y claves para la empresa puedes encontrar:"
+            ],
+            "items": [],
+            "palabras": 71
+        },
+        {
+            "titulo": "¿Cómo funciona la automatización robótica RPA?",
+            "implicita": false,
+            "subtitulos": [
+                "Automatización asistida",
+                "Automatización desatendida"
+            ],
+            "parrafos": [
+                "En ocasiones la palabra robótica puede confundir a la persona que desconoce la tecnología. Cuando se habla de RPA se habla de un software y no de un robot físico; más bien se trabaja en software para realizar tareas repetitivas, de gran volumen para la organización y que tienen un impacto en el negocio amplio. Para entender el funcionamiento de la RPA es importante diferenciar dos tipos de automatización, que funcionan según la forma en el que dicho robot te ayuda a automatizar. Por un lado, encuentras una automatización con asistente al que se llama para cumplir las tareas y el otro, es un tipo de automatización para el trabajo de back office.",
+                "La automatización asistida consiste en asistentes que se ejecutan en la máquina y te ayudan a completar una parte de las tareas que estás llevando a cabo. Si normalmente la acción es buscar, copiar y pegar de una aplicación a otra, puedes apoyarte de RPA para que se haga cargo de este tipo de actividades. Posteriormente, se cumpla la tarea, el bot regresará con la información para que la persona pueda continuar con el siguiente paso en el proceso.",
+                "En la automatización desatendida, los flujos de trabajo se activan automáticamente y se ejecutan en servidores. Por lo tanto, se pueden ejecutar en horarios específicos o estar disponibles todos los días de la semana. En comparación con el anterior tipo de automatización, de esta verías resultados de un proceso específico, por ejemplo, si hablamos del procesamiento de facturas, obtendrás un informe que indicará las facturas que no se pudieron procesar automáticamente y que requieren una atención más detallada."
+            ],
+            "items": [
+                "Automatización asistida",
+                "Automatización desatendida"
+            ],
+            "palabras": 274
+        },
+        {
+            "titulo": "Mitos de automatización robótica RPA",
+            "implicita": false,
+            "subtitulos": [],
+            "parrafos": [
+                "La automatización ha traído muchos mitos a su alrededor, los cuales impiden la evolución de la tecnología. Algunos de ellos son:",
+                "Además, cabe resaltar que este tipo de automatización es único y aunque muchas personas lo relacionan con la inteligencia artificial, son tecnologías diferentes. Aquí te explicamos las razones."
+            ],
+            "items": [
+                "La automatización robótica de procesos involucra robots físicos.",
+                "La automatización eliminará trabajos.",
+                "Esta tecnología es costosa.",
+                "La precisión del robot de RPA es del 100%.",
+                "RPA está creado solo para reducir costos.",
+                "Solo un desarrollador especializado puede automatizar.",
+                "Las tareas simples son las únicas que se pueden automatizar.",
+                "La automatización robótica puede automatizar todo."
+            ],
+            "palabras": 103
+        },
+        {
+            "titulo": "Impacto humano de RPA",
+            "implicita": false,
+            "subtitulos": [],
+            "parrafos": [
+                "Un asistente virtual es una excelente opción para las personas, te lo explicaré a través de un ejemplo:",
+                "Piensa en Martín, un miembro de tu equipo de trabajo que se encarga de aprobar solicitudes de todos tus clientes y hace esta tarea repetitiva, monótona y con un alto margen de error. Esto le genera estrés, una salud física degenerativa y frustración laboral. O dime, ¿te sentirías en plenitud con tu trabajo si solo te encargas de estas tareas?",
+                "Hemos implementado cientos de bots para empresas de todos los sectores y en todos los casos el impacto es positivo en las personas, pues pueden potenciar su talento y en algunas ocasiones han ascendido, pues su tiempo lo invierten en tareas que generan más rentabilidad para las empresas.",
+                "Le dejamos a los bots lo repetitivo y a las personas lo importante. Esta es la verdadera ventaja competitiva de RPA.",
+                "Uno de nuestros ingenieros de desarrollo nos comparte su postura frente a la parte humana de RPA",
+                "¿Cuáles son los retos empresariales para iniciar con RPA?",
+                "El desconocimiento sobre esta automatización es una de las razones más relevantes que evitan que los empresarios adopten RPA en sus empresas. También, otros aspectos como el costo y los procesos para adoptarlo.",
+                "En nuestro TrycorePodcast hablamos con Jesús Segura, una de las personas más experimentadas de nuestro equipo, quién además de compartir su análisis sobre el panorama actual de la automatización, recomendó iniciar con la automatización a través del Turbo RPA, la automatización más fácil, asequible e inmediata del mercado.",
+                "Habla aquí sobre el proyecto de automatización que tengas contemplado."
+            ],
+            "items": [],
+            "palabras": 264
+        },
+        {
+            "titulo": "¿Por qué automatizar con RPA?",
+            "implicita": false,
+            "subtitulos": [
+                "Analicemos la posibilidad",
+                "Definición de procesos para automatizar o para gestión de la calidad.",
+                "Definición de procesos para automatizar o para gestión de la calidad."
+            ],
+            "parrafos": [
+                "Contar con bots de RPA es muy importante en todas las industrias actualmente. De cara a la pandemia de la COVID-19 ha explotado su potencial y ha contribuido de forma acertada a luchar contra este virus, puedes leer un poco más de cómo se están usando los bots actualmente. De esta manera, un gran número de empresas han adoptado la automatización robótica como una vía rápida y fácil para automatizar tareas manuales, demasiado beneficioso para la reducción de errores y aumento de la calidad.",
+                "Es imprescindible conocer el papel que juega hoy en día la automatización robótica de procesos, ya que permitirá identificar de qué forma las empresas pueden obtener más beneficios y de qué manera puede contribuir a sus procesos típicos empresariales.",
+                "Algunos de los beneficios de RPA son:",
+                "Te podría interesar: Razones del porqué implementar automatización robótica de procesos",
+                "Datos que debes saber antes de iniciar una consultoría en RPA."
+            ],
+            "items": [
+                "Permite la escalabilidad en TI.",
+                "Gestionar los datos para evitar riesgos en el ingreso.",
+                "Control de fraude.",
+                "Reducción de costos.",
+                "Precisión y reducción de errores tipográficos e información incorrecta.",
+                "Reducción de tiempos.",
+                "La automatización robótica funciona como integración para aplicaciones sin API."
+            ],
+            "palabras": 195
+        },
+        {
+            "titulo": "¿Qué tareas puedo automatizar con RPA?",
+            "implicita": false,
+            "subtitulos": [
+                "Usos comunes de la automatización RPA en las empresas"
+            ],
+            "parrafos": [
+                "La automatización robótica de procesos ha tenido gran impacto en diversas industrias. El sector de seguros, la banca y otros, han estado a la vanguardia de los beneficios de esta tecnología. Algunos usos comunes de RPA son:",
+                "Te recomendamos: 3 casos de uso en la Automatización Robótica de Procesos."
+            ],
+            "items": [
+                "Emula la acción humana.",
+                "Realiza tareas repetidas de gran volumen y varias tareas complejas.",
+                "Integra el sistema virtual, transfiriendo datos entre sistemas heredados, conectándose al nivel de la interfaz de usuario en lugar de desarrollar una nueva infraestructura de datos.",
+                "Generación de informes automáticos.",
+                "Validación y auditoría de la información.",
+                "Gestiona la deuda técnica al reducir la brecha entre sistemas, evitando la introducción de implementaciones personalizadas.",
+                "Gestiona productos, reduciendo la brecha entre los sistemas de TI y las plataformas de gestión de productos relacionados.",
+                "Brinda garantía de calidad.",
+                "Permite la migración de datos.",
+                "Permite predecir la previsión de ingresos."
+            ],
+            "palabras": 148
+        },
+        {
+            "titulo": "¿Cómo debes elegir un proceso para automatizar con RPA?",
+            "implicita": false,
+            "subtitulos": [],
+            "parrafos": [],
+            "items": [],
+            "palabras": 0
+        },
+        {
+            "titulo": "Metodología de implementación de RPA",
+            "implicita": false,
+            "subtitulos": [
+                "1. Prepara el proyecto",
+                "2. Identifica casos de uso y potencial de la automatización para tu empresa",
+                "3. Desarrolla casos comerciales",
+                "4. Prepara la automatización",
+                "5. Implementa RPA"
+            ],
+            "parrafos": [
+                "Cuando se trata de automatizar con RPA es importante contar con un plan bien definido desde el inicio, el cual busque aprovechar al máximo el tiempo y los recursos necesarios para implementar esta tecnología. De esta manera, debe ser un proyecto que se lleve a cabo de forma minuciosa, con acciones coordinadas y rigor. Para hacerlo correctamente te recomendamos atender estos consejos antes de implementar:",
+                "Conoce cada consejo detalladamente: Cómo implementar una automatización robótica exitosamente.",
+                "Por otro lado, también deberás tener en cuenta:",
+                "Asigna tiempo suficiente para establecer expectativas, desarrollar un cronograma del proyecto y determinar todos los roles y responsabilidades de los participantes. Así se abordarán posibles riesgos, barreras y preocupaciones; y evitar la ansiedad por la automatización.",
+                "Prioriza los posibles casos de uso para la automatización en tu proyecto. Selecciona el caso de uso con el mayor impacto comercial esperado y asegura la aceptación de las partes interesadas.",
+                "Si te enfocas en los resultados finales, podrás gestionar el riesgo asociado con las implementaciones rápidas. Por lo tanto, un caso de negocio y un modelo de ROI en el proceso de RPA seleccionado obtiene una mejor comprensión del rendimiento al final de la implementación. El caso de negocio vincula la automatización robótica con la estrategia de la empresa, mientras que el modelo de ROI ofrece la seguridad de que la inversión producirá resultados deseables.",
+                "Prepárate para la automatización. Identifica y registra las oportunidades de automatización y la eficiencia en el proceso que seleccionaste. Asegurará que todas las partes involucradas en él estén alineados con el flujo de trabajo del estado futuro; además permitirá que se cumplan con todos los pasos requeridos para culminar la tarea correctamente.",
+                "A través de mejores prácticas puedes preparar tu empresa para el éxito, ya que permite comprender mejor la tecnología de automatización robótica y encontrar áreas adicionales en las cuales esta tecnología puede generar eficiencias.",
+                "Automatiza en menos de una semana y con menos costo"
+            ],
+            "items": [
+                "Comprende el proceso que vas a automatizar en la primera implementación RPA.",
+                "Documenta los procesos elegidos.",
+                "Crea una cultura de RPA que comprenda sus beneficios.",
+                "Elige una buena plataforma de automatización robótica.",
+                "Enfócate en los objetivos.",
+                "Sé estratégico.",
+                "Piensa el proyecto a largo plazo.",
+                "Calcula siempre el retorno a la inversión de la implementación RPA."
+            ],
+            "palabras": 376
+        },
+        {
+            "titulo": "¿Qué herramientas de automatización robótica hay? Conoce las mejores plataformas",
+            "implicita": false,
+            "subtitulos": [
+                "Otras características importantes de las herramientas RPA"
+            ],
+            "parrafos": [
+                "La selección de la herramienta RPA debe basarse en los siguientes parámetros:",
+                "Si estás iniciando en el mundo de la automatización con robots, deberás saber que existen diferentes herramientas RPA:",
+                "Elegir una herramienta de automatización robótica es una decisión importante, al igual que los parámetros anteriores, es bastante funcional que te fijes en las siguientes características:",
+                "Te invitamos a leer: Comparación de plataformas de automatización robótica RPA"
+            ],
+            "items": [
+                "En los datos, que sean de fácil lectura y escritura de datos comerciales en múltiples sistemas.",
+                "En la facilidad para configurar procesos basados ​​en reglas o basados ​​en conocimiento.",
+                "Las herramientas deben funcionar en varias aplicaciones.",
+                "De ser posible, que tenga compatibilidad con inteligencia artificial incorporada para imitar a los usuarios humanos.",
+                "Bots de automatización cognitiva: son bots de autoaprendizaje que pueden usar datos no estructurados y tomar decisiones basados en entradas complejas y no estructuradas.",
+                "Automatización de Excel y Macros: usualmente es una solución de automatización de procesos básicos y simples",
+                "Herramientas de autoaprendizaje: analiza acciones humanas y realiza lo mismo en varias plataformas",
+                "Solución programable de bots: podrás interactuar otros sistemas según los requisitos y/o entradas del cliente.",
+                "Escalabilidad: selecciona una herramienta que te permita responder fácilmente a los requisitos o cambios de tus usuarios, ya sean internos o externos.",
+                "Tecnología: considera que la herramienta admita cualquier tipo de aplicación y sea independiente de la plataforma",
+                "Facilidad de uso: identifica qué tan fácil y amigable es la plataforma, no solo para disminuir tiempos de desarrollo sino para mejorar la satisfacción de los colaboradores",
+                "Seguridad: este es uno de los ítems más importantes, considera muchas medidas de seguridad antes de implementar bots en producción",
+                "Mantenimiento y soporte: procura que tu proveedor te brinde un modelo de soporte óptimo para garantizar que se cumplan todos los ANS."
+            ],
+            "palabras": 295
+        },
+        {
+            "titulo": "¿Cómo obtener valor en las pruebas de concepto de RPA?",
+            "implicita": false,
+            "subtitulos": [],
+            "parrafos": [
+                "Una prueba de concepto (PoC) es la implementación generalizada de software en la que podrás conocer cómo funciona la automatización robótica; su propósito es verificar de qué manera puede ser beneficiosa para la empresa en cuestión. “Una prueba de concepto de automatización exitosa te deberá mostrar que ha funcionado y demostrar el argumento comercial para la automatización y su escalabilidad”. Te contamos cinco pasos para tener éxito en una PoC:",
+                "Te podría interesar: Valor en las pruebas de concepto de automatización RPA"
+            ],
+            "items": [
+                "Identifica y mejora los puntos débiles en tu empresa para alcanzar la transformación digital.",
+                "Captura, mapea y mide los procesos de tu empresa.",
+                "Analiza y diseña procesos de automatización con el alcance definido y mapeado de la forma adecuada.",
+                "Planifica y prepara la implementación creando un modelo que permita contemplar aristas de precio, beneficios, entre otros; de cara a escalar."
+            ],
+            "palabras": 142
+        },
+        {
+            "titulo": "Errores comunes en una automatización",
+            "implicita": false,
+            "subtitulos": [
+                "Mejores prácticas de implementación de RPA"
+            ],
+            "parrafos": [
+                "Evitar errores en la implementación de la automatización robótica RPA es fácil. Ten en cuenta siempre tener metas claras en un proyecto de esta clase, elegir los procesos correctamente, crea una cultura que crea y confíe en los beneficios de esta tecnología, escala tu automatización; prueba los bots, involucra a todos los equipos que se relacionan al proceso. Ten claro los beneficios que puedes obtener y ve más allá de las pruebas de concepto. ¿Por qué? Continua leyendo en: Evita los errores más comunes al automatizar con RPA",
+                "Las mejores prácticas en la implementación RPA son vitales para el éxito del ROI. Algunas de ellas son:",
+                "Implementa estrategias diseñadas para proteger los entornos digitales y simplificar el control granular de permisos otorgados a los robots. De igual forma, ten en cuenta que los procesos deben servirse desde un embudo, apoyándote de la automatización de Data Warehouse para procesos simples y para llegar más lejos en procesos más complejos. Procura que en el transcurso de adopción se encuentren mejores formas de automatizar, optimizar y estandarizar procesos que puedan documentarse.",
+                "Te podría interesar: Conoce cómo garantizar el éxito de la Automatización Robótica RPA"
+            ],
+            "items": [
+                "Considera el impacto comercial antes de optar por algún proceso a automatizar con RPA.",
+                "Combina RPA atendido y desatendido.",
+                "Define y enfócate en el ROI deseado",
+                "Céntrate en procesos correctos y viables para automatizar.",
+                "Piensa en el impacto que tiene la implementación en las personas.",
+                "La gobernanza del proyecto es lo más importante en el proceso de RPA. Garantiza el cumplimiento de las políticas de la empresa.",
+                "Asegurate que proyectos e iniciativas de RPA estén alineados con los objetivos de transformación digital de mayor alcance y relevancia.",
+                "Considera implementar una plataforma RPA empresarial, estableciendo una perspectiva para la privacidad de datos y el desarrollo continuo."
+            ],
+            "palabras": 296
+        },
+        {
+            "titulo": "¿Cómo medir el rendimiento de la automatización RPA?",
+            "implicita": false,
+            "subtitulos": [
+                "Analiza los resultados"
+            ],
+            "parrafos": [
+                "Las métricas en todo proyecto de tecnología son importantes, ya que permiten determinar y demostrar el impacto que le está generando al negocio. Es fundamental que interpreten los resultados para mejorar, continuar y replicar el modelo implementado. En otras palabras, en términos de automatización con RPA, el objetivo debe ser el medir para identificar el margen de ganancia del proyecto.",
+                "Hay factores básicos e imprescindibles a tener en cuenta como: tiempo ahorrado, porcentaje de errores reducidos, eficiencia de personal, costos asociados al cambio, a infraestructura, personal y consultoría sobre servicios profesionales; entre otros. Algunas métricas de medición son:",
+                "Si quieres saber de qué manera estos factores aportan en tu medición de automatización continua leyendo: La importancia de la medición en automatizaciones con RPA",
+                "E-BOOK"
+            ],
+            "items": [
+                "Métricas que calculan beneficios por hora y persona.",
+                "Métricas para calcular nuevas iniciativas (ROI).",
+                "Métricas de mejora continua."
+            ],
+            "palabras": 143
+        },
+        {
+            "titulo": "Mide el éxito de tu implementación RPA",
+            "implicita": false,
+            "subtitulos": [],
+            "parrafos": [
+                "Descarga una copia y conoce cómo medir de forma fácil el retorno de inversión en la automatización de tareas con RPA."
+            ],
+            "items": [],
+            "palabras": 21
+        },
+        {
+            "titulo": "¿Cómo escalar RPA?",
+            "implicita": false,
+            "subtitulos": [
+                "Potencia la automatización",
+                "Potencia la automatización",
+                "Analiza los resultados",
+                "Analiza los resultados"
+            ],
+            "parrafos": [
+                "Después de haber medido e identificado si realmente la automatización con RPA ha sido fuente de mejora para la organización, es común encontrarse con la pregunta: ¿qué se debe hacer después de haber automatizado?",
+                "La escalabilidad de un proyecto se enfoca en la ampliación y mejora de aspectos como trazabilidad, objetivos, gestión del cambio, gobierno de la tecnología, capacidades del talento, entre otros. Ampliar implica el despliegue estratégicamente planeado que permita aprovechar los beneficios de la automatización RPA, asegurando la alta disponibilidad del ecosistema, e integración con otras tecnologías.",
+                "De esta manera, se puede afirmar que escalar la automatización RPA se alcanza obteniendo la gobernabilidad de los procesos a automatizar, es decir, construyendo un centro de excelencia que “incluya a personas, procesos y tecnología: los necesarios para potenciar los beneficios de la automatización”. Por lo tanto, ten en cuenta estos factores para escalar correctamente RPA:",
+                "Descubre cómo hacerlo en: El porqué de escalar una implementación RPA en tus procesos"
+            ],
+            "items": [
+                "La clave para escalar es la gobernabilidad y elegir los procesos correctos desde el inicio.",
+                "Empodera los equipos.",
+                "Descubre tu nivel de automatización."
+            ],
+            "palabras": 182
+        },
+        {
+            "titulo": "Entonces, ¿cómo se escala una automatización?",
+            "implicita": false,
+            "subtitulos": [
+                "Consejos para escalar la automatización RPA"
+            ],
+            "parrafos": [
+                "Para escalar una automatización correctamente es importante conocer el concepto de Centro de Excelencia (CoE), el cual permite encontrar nuevas oportunidades para automatizar y llevar toda la tecnología a toda la organización. Los factores más relevantes para ello es: contar con una infraestructura, tener un equipo empoderado, haber creado procesos de calidad, medir y obtener el retorno de la implementación RPA. y finalmente, la medición y retorno.",
+                "Para mantener tu visión y escalar correctamente, te aconsejamos:",
+                "Lee todo el blog y aprende cómo usar estos consejos para escalar RPA. Mejores prácticas para escalar RPA correctamente"
+            ],
+            "items": [
+                "Comprende la importancia de la gestión del cambio y de tus equipos.",
+                "Aborda procesos transversales y mejorados.",
+                "Optimiza los procesos antes de automatizarlos.",
+                "Configura una ruta a la automatización, pensando en el gobierno y trazabilidad que permita la excelencia operativa."
+            ],
+            "palabras": 135
+        },
+        {
+            "titulo": "Construye un Centro de Excelencia",
+            "implicita": false,
+            "subtitulos": [],
+            "parrafos": [
+                "Un centro de excelencia resuelve desafíos relacionados al costo y escalabilidad; permitiendo que la integración de las automatizaciones sea efectiva en toda la organización para distribuirla y replicarla. De esta manera, mejora en comprensión, planificación y el esfuerzo bien estructurado de una implementación RPA.",
+                "Las empresas deben tener un centro de excelencia RPA porque facilitan la adopción de automatizaciones, es mucho más eficaz cuando se enfoca a áreas como: operaciones, procesos, organización, tecnología y gobierno.",
+                "Antes de realizar un centro de excelencia RPA es importante verificar si tus procesos son óptimos para mejorar o eliminar. De igual forma, saber si se puede involucrar un sistema central para mejorar la rentabilidad de la automatización; esto permitiría que la implementación sea exitosa. Por otro lado, ten en cuenta que “si los procesos se llevan a proveedores externos, el Centro de Excelencia debería utilizar una metodología que permita la entrega adecuada de la operación”.",
+                "Hemos creado una guía especial que te permita identificar el Centro de Excelencia de automatización adecuado para tu empresa y el estado actual de RPA; de qué manera hacerlo y consejos de nuestros expertos que te permite configurarlo. Léela completa: Aprende cómo construir un Centro de Excelencia RPA paso a paso"
+            ],
+            "items": [],
+            "palabras": 202
+        },
+        {
+            "titulo": "Entonces, ¿cuál es el futuro de la automatización?",
+            "implicita": false,
+            "subtitulos": [],
+            "parrafos": [
+                "Las ventajas de RPA se pueden potenciar al orquestar los procesos en que participa con BPM, también, la hiperautomatización, tendencia de la década agrega valor a esta tecnologías del software al hacer partícipe en procesos e2e junto a la Inteligencia Artificial, el Machine Learning, entre otras tecnologías.",
+                "Por otro lado, el aprendizaje automático ayuda a sus bots a leer documentos de forma inteligente, para identificar elementos de datos estructurados, no estructurados y semiestructurados para procesar documentos de manera similar a cómo un humano podría completar tales tareas."
+            ],
+            "items": [],
+            "palabras": 87
+        },
+        {
+            "titulo": "¿Tienes una idea sobre como aprovechar esta tecnología?",
+            "implicita": false,
+            "subtitulos": [],
+            "parrafos": [
+                "Contáctanos y nuestro equipo te ayudará a construir el mejor Caso de Negocio para evaluar el beneficio, el costo y el riesgo de implementarla."
+            ],
+            "items": [],
+            "palabras": 24
+        }
+    ],
+    "listas": [
+        {
+            "tipo": "ul",
+            "seccion": "Introducción",
+            "items": [
+                "Inicio",
+                "Automatización asistida",
+                "La automatización robótica de procesos involucra robots físicos.",
+                "La automatización eliminará trabajos.",
+                "Esta tecnología es costosa.",
+                "La precisión del robot de RPA es del 100%.",
+                "RPA está creado solo para reducir costos.",
+                "Solo un desarrollador especializado puede automatizar.",
+                "Las tareas simples son las únicas que se pueden automatizar.",
+                "La automatización robótica puede automatizar todo.",
+                "Bots de automatización cognitiva: son bots de autoaprendizaje que pueden usar datos no estructurados y tomar decisiones basados en entradas complejas y no estructuradas.",
+                "Automatización de Excel y Macros: usualmente es una solución de automatización de procesos básicos y simples",
+                "Herramientas de autoaprendizaje: analiza acciones humanas y realiza lo mismo en varias plataformas",
+                "Solución programable de bots: podrás interactuar otros sistemas según los requisitos y/o entradas del cliente.",
+                "Identifica y mejora los puntos débiles en tu empresa para alcanzar la transformación digital.",
+                "Captura, mapea y mide los procesos de tu empresa.",
+                "Analiza y diseña procesos de automatización con el alcance definido y mapeado de la forma adecuada.",
+                "Planifica y prepara la implementación creando un modelo que permita contemplar aristas de precio, beneficios, entre otros; de cara a escalar.",
+                "Métricas que calculan beneficios por hora y persona.",
+                "Métricas para calcular nuevas iniciativas (ROI).",
+                "Métricas de mejora continua."
+            ]
+        },
+        {
+            "tipo": "ol",
+            "seccion": "Introducción",
+            "items": [
+                "Software codificado por computadora",
+                "Programas que imitan la interacción humana con aplicaciones.",
+                "Aplicación multifuncional",
+                "Fuerza laboral virtual controlada por operaciones comerciales",
+                "Ágil y no invasivo, funciona con la arquitectura y el gobierno de TI existentes",
+                "Permite la escalabilidad en TI.",
+                "Gestionar los datos para evitar riesgos en el ingreso.",
+                "Control de fraude.",
+                "Reducción de costos.",
+                "Precisión y reducción de errores tipográficos e información incorrecta.",
+                "Reducción de tiempos.",
+                "La automatización robótica funciona como integración para aplicaciones sin API.",
+                "Comprende el proceso que vas a automatizar en la primera implementación RPA.",
+                "Documenta los procesos elegidos.",
+                "Crea una cultura de RPA que comprenda sus beneficios.",
+                "Elige una buena plataforma de automatización robótica.",
+                "Enfócate en los objetivos.",
+                "Sé estratégico.",
+                "Piensa el proyecto a largo plazo.",
+                "Calcula siempre el retorno a la inversión de la implementación RPA.",
+                "Escalabilidad: selecciona una herramienta que te permita responder fácilmente a los requisitos o cambios de tus usuarios, ya sean internos o externos.",
+                "Tecnología: considera que la herramienta admita cualquier tipo de aplicación y sea independiente de la plataforma",
+                "Facilidad de uso: identifica qué tan fácil y amigable es la plataforma, no solo para disminuir tiempos de desarrollo sino para mejorar la satisfacción de los colaboradores",
+                "Seguridad: este es uno de los ítems más importantes, considera muchas medidas de seguridad antes de implementar bots en producción",
+                "Mantenimiento y soporte: procura que tu proveedor te brinde un modelo de soporte óptimo para garantizar que se cumplan todos los ANS.",
+                "Comprende la importancia de la gestión del cambio y de tus equipos.",
+                "Aborda procesos transversales y mejorados.",
+                "Optimiza los procesos antes de automatizarlos.",
+                "Configura una ruta a la automatización, pensando en el gobierno y trazabilidad que permita la excelencia operativa."
+            ]
+        },
+        {
+            "tipo": "ul",
+            "seccion": "¿Cómo funciona la automatización robótica RPA?",
+            "items": [
+                "Automatización desatendida",
+                "Emula la acción humana.",
+                "Realiza tareas repetidas de gran volumen y varias tareas complejas.",
+                "Integra el sistema virtual, transfiriendo datos entre sistemas heredados, conectándose al nivel de la interfaz de usuario en lugar de desarrollar una nueva infraestructura de datos.",
+                "Generación de informes automáticos.",
+                "Validación y auditoría de la información.",
+                "Gestiona la deuda técnica al reducir la brecha entre sistemas, evitando la introducción de implementaciones personalizadas.",
+                "Gestiona productos, reduciendo la brecha entre los sistemas de TI y las plataformas de gestión de productos relacionados.",
+                "Brinda garantía de calidad.",
+                "Permite la migración de datos.",
+                "Permite predecir la previsión de ingresos.",
+                "En los datos, que sean de fácil lectura y escritura de datos comerciales en múltiples sistemas.",
+                "En la facilidad para configurar procesos basados ​​en reglas o basados ​​en conocimiento.",
+                "Las herramientas deben funcionar en varias aplicaciones.",
+                "De ser posible, que tenga compatibilidad con inteligencia artificial incorporada para imitar a los usuarios humanos.",
+                "Considera el impacto comercial antes de optar por algún proceso a automatizar con RPA.",
+                "Combina RPA atendido y desatendido.",
+                "Define y enfócate en el ROI deseado",
+                "Céntrate en procesos correctos y viables para automatizar.",
+                "Piensa en el impacto que tiene la implementación en las personas.",
+                "La gobernanza del proyecto es lo más importante en el proceso de RPA. Garantiza el cumplimiento de las políticas de la empresa.",
+                "Asegurate que proyectos e iniciativas de RPA estén alineados con los objetivos de transformación digital de mayor alcance y relevancia.",
+                "Considera implementar una plataforma RPA empresarial, estableciendo una perspectiva para la privacidad de datos y el desarrollo continuo.",
+                "La clave para escalar es la gobernabilidad y elegir los procesos correctos desde el inicio.",
+                "Empodera los equipos.",
+                "Descubre tu nivel de automatización."
+            ]
+        }
+    ],
+    "texto": "Guía de Automatización Robótica de Procesos RPA • Trycore\nIntroducción\nTodo lo que debes saber sobre este tipo de automatización robótica de tareas.\nÍndice de contenidos\nGuía de automatización RPA\n¿Qué pasaría si rutinarias acciones como almacenar, recuperar, manipular, transmitir datos, entre otras, fueran elaboradas por una tecnología de software?\nCon Robotic Process Automation (RPA), puedes automatizar tareas repetitivas, simples y con un alto volumen de ejecución. Los bots trabajan desde el sistema de la organización, simulando y replicando las acciones humanas de manera automática.\nSabemos que tu objetivo es hacer que tu compañía sea más competitiva y por esta razón, queremos compartirte las características más importantes de RPA.\nLa tecnología RPA tiene el potencial de transformar el lugar de trabajo de forma dramática, ya que es posible obtener un retorno a la inversión tan solo en un año. La automatización robótica de procesos es una forma de automatizar procesos repetitivos, en ocasiones basados en reglas: desde el front hasta el back en los modelos operativos retenidos y subcontratados. Las características más destacadas y claves para la empresa puedes encontrar:\nInicio\nSoftware codificado por computadora\nProgramas que imitan la interacción humana con aplicaciones.\nAplicación multifuncional\nFuerza laboral virtual controlada por operaciones comerciales\nÁgil y no invasivo, funciona con la arquitectura y el gobierno de TI existentes\n¿Qué es RPA?\nEl inicio del cambio\nRPA tiene el potencial de transformar la metodología de trabajo y de impulsar de la transformación que propone la industria 4.0, además, es posible obtener un retorno a la inversión tan solo en un año.\nLa automatización robótica de procesos es una forma de automatizar procesos repetitivos, en ocasiones basados ​​en reglas: desde el front hasta el back en los modelos operativos retenidos y subcontratados.\nCaracterísticas de la automatización robótica de procesos (RPA)\nLa tecnología RPA tiene el potencial de transformar el lugar de trabajo de forma dramática, ya que es posible obtener un retorno a la inversión tan solo en un año. La automatización robótica de procesos es una forma de automatizar procesos repetitivos, en ocasiones basados ​​en reglas: desde el front hasta el back en los modelos operativos retenidos y subcontratados. Las características más destacadas y claves para la empresa puedes encontrar:\n¿Cómo funciona la automatización robótica RPA?\nAutomatización asistida\nAutomatización desatendida\nEn ocasiones la palabra robótica puede confundir a la persona que desconoce la tecnología. Cuando se habla de RPA se habla de un software y no de un robot físico; más bien se trabaja en software para realizar tareas repetitivas, de gran volumen para la organización y que tienen un impacto en el negocio amplio. Para entender el funcionamiento de la RPA es importante diferenciar dos tipos de automatización, que funcionan según la forma en el que dicho robot te ayuda a automatizar. Por un lado, encuentras una automatización con asistente al que se llama para cumplir las tareas y el otro, es un tipo de automatización para el trabajo de back office.\nLa automatización asistida consiste en asistentes que se ejecutan en la máquina y te ayudan a completar una parte de las tareas que estás llevando a cabo. Si normalmente la acción es buscar, copiar y pegar de una aplicación a otra, puedes apoyarte de RPA para que se haga cargo de este tipo de actividades. Posteriormente, se cumpla la tarea, el bot regresará con la información para que la persona pueda continuar con el siguiente paso en el proceso.\nEn la automatización desatendida, los flujos de trabajo se activan automáticamente y se ejecutan en servidores. Por lo tanto, se pueden ejecutar en horarios específicos o estar disponibles todos los días de la semana. En comparación con el anterior tipo de automatización, de esta verías resultados de un proceso específico, por ejemplo, si hablamos del procesamiento de facturas, obtendrás un informe que indicará las facturas que no se pudieron procesar automáticamente y que requieren una atención más detallada.\nAutomatización asistida\nAutomatización desatendida\nMitos de automatización robótica RPA\nLa automatización ha traído muchos mitos a su alrededor, los cuales impiden la evolución de la tecnología. Algunos de ellos son:\nAdemás, cabe resaltar que este tipo de automatización es único y aunque muchas personas lo relacionan con la inteligencia artificial, son tecnologías diferentes. Aquí te explicamos las razones.\nLa automatización robótica de procesos involucra robots físicos.\nLa automatización eliminará trabajos.\nEsta tecnología es costosa.\nLa precisión del robot de RPA es del 100%.\nRPA está creado solo para reducir costos.\nSolo un desarrollador especializado puede automatizar.\nLas tareas simples son las únicas que se pueden automatizar.\nLa automatización robótica puede automatizar todo.\nImpacto humano de RPA\nUn asistente virtual es una excelente opción para las personas, te lo explicaré a través de un ejemplo:\nPiensa en Martín, un miembro de tu equipo de trabajo que se encarga de aprobar solicitudes de todos tus clientes y hace esta tarea repetitiva, monótona y con un alto margen de error. Esto le genera estrés, una salud física degenerativa y frustración laboral. O dime, ¿te sentirías en plenitud con tu trabajo si solo te encargas de estas tareas?\nHemos implementado cientos de bots para empresas de todos los sectores y en todos los casos el impacto es positivo en las personas, pues pueden potenciar su talento y en algunas ocasiones han ascendido, pues su tiempo lo invierten en tareas que generan más rentabilidad para las empresas.\nLe dejamos a los bots lo repetitivo y a las personas lo importante. Esta es la verdadera ventaja competitiva de RPA.\nUno de nuestros ingenieros de desarrollo nos comparte su postura frente a la parte humana de RPA\n¿Cuáles son los retos empresariales para iniciar con RPA?\nEl desconocimiento sobre esta automatización es una de las razones más relevantes que evitan que los empresarios adopten RPA en sus empresas. También, otros aspectos como el costo y los procesos para adoptarlo.\nEn nuestro TrycorePodcast hablamos con Jesús Segura, una de las personas más experimentadas de nuestro equipo, quién además de compartir su análisis sobre el panorama actual de la automatización, recomendó iniciar con la automatización a través del Turbo RPA, la automatización más fácil, asequible e inmediata del mercado.\nHabla aquí sobre el proyecto de automatización que tengas contemplado.\n¿Por qué automatizar con RPA?\nAnalicemos la posibilidad\nDefinición de procesos para automatizar o para gestión de la calidad.\nDefinición de procesos para automatizar o para gestión de la calidad.\nContar con bots de RPA es muy importante en todas las industrias actualmente. De cara a la pandemia de la COVID-19 ha explotado su potencial y ha contribuido de forma acertada a luchar contra este virus, puedes leer un poco más de cómo se están usando los bots actualmente. De esta manera, un gran número de empresas han adoptado la automatización robótica como una vía rápida y fácil para automatizar tareas manuales, demasiado beneficioso para la reducción de errores y aumento de la calidad.\nEs imprescindible conocer el papel que juega hoy en día la automatización robótica de procesos, ya que permitirá identificar de qué forma las empresas pueden obtener más beneficios y de qué manera puede contribuir a sus procesos típicos empresariales.\nAlgunos de los beneficios de RPA son:\nTe podría interesar: Razones del porqué implementar automatización robótica de procesos\nDatos que debes saber antes de iniciar una consultoría en RPA.\nPermite la escalabilidad en TI.\nGestionar los datos para evitar riesgos en el ingreso.\nControl de fraude.\nReducción de costos.\nPrecisión y reducción de errores tipográficos e información incorrecta.\nReducción de tiempos.\nLa automatización robótica funciona como integración para aplicaciones sin API.\n¿Qué tareas puedo automatizar con RPA?\nUsos comunes de la automatización RPA en las empresas\nLa automatización robótica de procesos ha tenido gran impacto en diversas industrias. El sector de seguros, la banca y otros, han estado a la vanguardia de los beneficios de esta tecnología. Algunos usos comunes de RPA son:\nTe recomendamos: 3 casos de uso en la Automatización Robótica de Procesos.\nEmula la acción humana.\nRealiza tareas repetidas de gran volumen y varias tareas complejas.\nIntegra el sistema virtual, transfiriendo datos entre sistemas heredados, conectándose al nivel de la interfaz de usuario en lugar de desarrollar una nueva infraestructura de datos.\nGeneración de informes automáticos.\nValidación y auditoría de la información.\nGestiona la deuda técnica al reducir la brecha entre sistemas, evitando la introducción de implementaciones personalizadas.\nGestiona productos, reduciendo la brecha entre los sistemas de TI y las plataformas de gestión de productos relacionados.\nBrinda garantía de calidad.\nPermite la migración de datos.\nPermite predecir la previsión de ingresos.\n¿Cómo debes elegir un proceso para automatizar con RPA?\nMetodología de implementación de RPA\n1. Prepara el proyecto\n2. Identifica casos de uso y potencial de la automatización para tu empresa\n3. Desarrolla casos comerciales\n4. Prepara la automatización\n5. Implementa RPA\nCuando se trata de automatizar con RPA es importante contar con un plan bien definido desde el inicio, el cual busque aprovechar al máximo el tiempo y los recursos necesarios para implementar esta tecnología. De esta manera, debe ser un proyecto que se lleve a cabo de forma minuciosa, con acciones coordinadas y rigor. Para hacerlo correctamente te recomendamos atender estos consejos antes de implementar:\nConoce cada consejo detalladamente: Cómo implementar una automatización robótica exitosamente.\nPor otro lado, también deberás tener en cuenta:\nAsigna tiempo suficiente para establecer expectativas, desarrollar un cronograma del proyecto y determinar todos los roles y responsabilidades de los participantes. Así se abordarán posibles riesgos, barreras y preocupaciones; y evitar la ansiedad por la automatización.\nPrioriza los posibles casos de uso para la automatización en tu proyecto. Selecciona el caso de uso con el mayor impacto comercial esperado y asegura la aceptación de las partes interesadas.\nSi te enfocas en los resultados finales, podrás gestionar el riesgo asociado con las implementaciones rápidas. Por lo tanto, un caso de negocio y un modelo de ROI en el proceso de RPA seleccionado obtiene una mejor comprensión del rendimiento al final de la implementación. El caso de negocio vincula la automatización robótica con la estrategia de la empresa, mientras que el modelo de ROI ofrece la seguridad de que la inversión producirá resultados deseables.\nPrepárate para la automatización. Identifica y registra las oportunidades de automatización y la eficiencia en el proceso que seleccionaste. Asegurará que todas las partes involucradas en él estén alineados con el flujo de trabajo del estado futuro; además permitirá que se cumplan con todos los pasos requeridos para culminar la tarea correctamente.\nA través de mejores prácticas puedes preparar tu empresa para el éxito, ya que permite comprender mejor la tecnología de automatización robótica y encontrar áreas adicionales en las cuales esta tecnología puede generar eficiencias.\nAutomatiza en menos de una semana y con menos costo\nComprende el proceso que vas a automatizar en la primera implementación RPA.\nDocumenta los procesos elegidos.\nCrea una cultura de RPA que comprenda sus beneficios.\nElige una buena plataforma de automatización robótica.\nEnfócate en los objetivos.\nSé estratégico.\nPiensa el proyecto a largo plazo.\nCalcula siempre el retorno a la inversión de la implementación RPA.\n¿Qué herramientas de automatización robótica hay? Conoce las mejores plataformas\nOtras características importantes de las herramientas RPA\nLa selección de la herramienta RPA debe basarse en los siguientes parámetros:\nSi estás iniciando en el mundo de la automatización con robots, deberás saber que existen diferentes herramientas RPA:\nElegir una herramienta de automatización robótica es una decisión importante, al igual que los parámetros anteriores, es bastante funcional que te fijes en las siguientes características:\nTe invitamos a leer: Comparación de plataformas de automatización robótica RPA\nEn los datos, que sean de fácil lectura y escritura de datos comerciales en múltiples sistemas.\nEn la facilidad para configurar procesos basados ​​en reglas o basados ​​en conocimiento.\nLas herramientas deben funcionar en varias aplicaciones.\nDe ser posible, que tenga compatibilidad con inteligencia artificial incorporada para imitar a los usuarios humanos.\nBots de automatización cognitiva: son bots de autoaprendizaje que pueden usar datos no estructurados y tomar decisiones basados en entradas complejas y no estructuradas.\nAutomatización de Excel y Macros: usualmente es una solución de automatización de procesos básicos y simples\nHerramientas de autoaprendizaje: analiza acciones humanas y realiza lo mismo en varias plataformas\nSolución programable de bots: podrás interactuar otros sistemas según los requisitos y/o entradas del cliente.\nEscalabilidad: selecciona una herramienta que te permita responder fácilmente a los requisitos o cambios de tus usuarios, ya sean internos o externos.\nTecnología: considera que la herramienta admita cualquier tipo de aplicación y sea independiente de la plataforma\nFacilidad de uso: identifica qué tan fácil y amigable es la plataforma, no solo para disminuir tiempos de desarrollo sino para mejorar la satisfacción de los colaboradores\nSeguridad: este es uno de los ítems más importantes, considera muchas medidas de seguridad antes de implementar bots en producción\nMantenimiento y soporte: procura que tu proveedor te brinde un modelo de soporte óptimo para garantizar que se cumplan todos los ANS.\n¿Cómo obtener valor en las pruebas de concepto de RPA?\nUna prueba de concepto (PoC) es la implementación generalizada de software en la que podrás conocer cómo funciona la automatización robótica; su propósito es verificar de qué manera puede ser beneficiosa para la empresa en cuestión. “Una prueba de concepto de automatización exitosa te deberá mostrar que ha funcionado y demostrar el argumento comercial para la automatización y su escalabilidad”. Te contamos cinco pasos para tener éxito en una PoC:\nTe podría interesar: Valor en las pruebas de concepto de automatización RPA\nIdentifica y mejora los puntos débiles en tu empresa para alcanzar la transformación digital.\nCaptura, mapea y mide los procesos de tu empresa.\nAnaliza y diseña procesos de automatización con el alcance definido y mapeado de la forma adecuada.\nPlanifica y prepara la implementación creando un modelo que permita contemplar aristas de precio, beneficios, entre otros; de cara a escalar.\nErrores comunes en una automatización\nMejores prácticas de implementación de RPA\nEvitar errores en la implementación de la automatización robótica RPA es fácil. Ten en cuenta siempre tener metas claras en un proyecto de esta clase, elegir los procesos correctamente, crea una cultura que crea y confíe en los beneficios de esta tecnología, escala tu automatización; prueba los bots, involucra a todos los equipos que se relacionan al proceso. Ten claro los beneficios que puedes obtener y ve más allá de las pruebas de concepto. ¿Por qué? Continua leyendo en: Evita los errores más comunes al automatizar con RPA\nLas mejores prácticas en la implementación RPA son vitales para el éxito del ROI. Algunas de ellas son:\nImplementa estrategias diseñadas para proteger los entornos digitales y simplificar el control granular de permisos otorgados a los robots. De igual forma, ten en cuenta que los procesos deben servirse desde un embudo, apoyándote de la automatización de Data Warehouse para procesos simples y para llegar más lejos en procesos más complejos. Procura que en el transcurso de adopción se encuentren mejores formas de automatizar, optimizar y estandarizar procesos que puedan documentarse.\nTe podría interesar: Conoce cómo garantizar el éxito de la Automatización Robótica RPA\nConsidera el impacto comercial antes de optar por algún proceso a automatizar con RPA.\nCombina RPA atendido y desatendido.\nDefine y enfócate en el ROI deseado\nCéntrate en procesos correctos y viables para automatizar.\nPiensa en el impacto que tiene la implementación en las personas.\nLa gobernanza del proyecto es lo más importante en el proceso de RPA. Garantiza el cumplimiento de las políticas de la empresa.\nAsegurate que proyectos e iniciativas de RPA estén alineados con los objetivos de transformación digital de mayor alcance y relevancia.\nConsidera implementar una plataforma RPA empresarial, estableciendo una perspectiva para la privacidad de datos y el desarrollo continuo.\n¿Cómo medir el rendimiento de la automatización RPA?\nAnaliza los resultados\nLas métricas en todo proyecto de tecnología son importantes, ya que permiten determinar y demostrar el impacto que le está generando al negocio. Es fundamental que interpreten los resultados para mejorar, continuar y replicar el modelo implementado. En otras palabras, en términos de automatización con RPA, el objetivo debe ser el medir para identificar el margen de ganancia del proyecto.\nHay factores básicos e imprescindibles a tener en cuenta como: tiempo ahorrado, porcentaje de errores reducidos, eficiencia de personal, costos asociados al cambio, a infraestructura, personal y consultoría sobre servicios profesionales; entre otros. Algunas métricas de medición son:\nSi quieres saber de qué manera estos factores aportan en tu medición de automatización continua leyendo: La importancia de la medición en automatizaciones con RPA\nE-BOOK\nMétricas que calculan beneficios por hora y persona.\nMétricas para calcular nuevas iniciativas (ROI).\nMétricas de mejora continua.\nMide el éxito de tu implementación RPA\nDescarga una copia y conoce cómo medir de forma fácil el retorno de inversión en la automatización de tareas con RPA.\n¿Cómo escalar RPA?\nPotencia la automatización\nPotencia la automatización\nAnaliza los resultados\nAnaliza los resultados\nDespués de haber medido e identificado si realmente la automatización con RPA ha sido fuente de mejora para la organización, es común encontrarse con la pregunta: ¿qué se debe hacer después de haber automatizado?\nLa escalabilidad de un proyecto se enfoca en la ampliación y mejora de aspectos como trazabilidad, objetivos, gestión del cambio, gobierno de la tecnología, capacidades del talento, entre otros. Ampliar implica el despliegue estratégicamente planeado que permita aprovechar los beneficios de la automatización RPA, asegurando la alta disponibilidad del ecosistema, e integración con otras tecnologías.\nDe esta manera, se puede afirmar que escalar la automatización RPA se alcanza obteniendo la gobernabilidad de los procesos a automatizar, es decir, construyendo un centro de excelencia que “incluya a personas, procesos y tecnología: los necesarios para potenciar los beneficios de la automatización”. Por lo tanto, ten en cuenta estos factores para escalar correctamente RPA:\nDescubre cómo hacerlo en: El porqué de escalar una implementación RPA en tus procesos\nLa clave para escalar es la gobernabilidad y elegir los procesos correctos desde el inicio.\nEmpodera los equipos.\nDescubre tu nivel de automatización.\nEntonces, ¿cómo se escala una automatización?\nConsejos para escalar la automatización RPA\nPara escalar una automatización correctamente es importante conocer el concepto de Centro de Excelencia (CoE), el cual permite encontrar nuevas oportunidades para automatizar y llevar toda la tecnología a toda la organización. Los factores más relevantes para ello es: contar con una infraestructura, tener un equipo empoderado, haber creado procesos de calidad, medir y obtener el retorno de la implementación RPA. y finalmente, la medición y retorno.\nPara mantener tu visión y escalar correctamente, te aconsejamos:\nLee todo el blog y aprende cómo usar estos consejos para escalar RPA. Mejores prácticas para escalar RPA correctamente\nComprende la importancia de la gestión del cambio y de tus equipos.\nAborda procesos transversales y mejorados.\nOptimiza los procesos antes de automatizarlos.\nConfigura una ruta a la automatización, pensando en el gobierno y trazabilidad que permita la excelencia operativa.\nConstruye un Centro de Excelencia\nUn centro de excelencia resuelve desafíos relacionados al costo y escalabilidad; permitiendo que la integración de las automatizaciones sea efectiva en toda la organización para distribuirla y replicarla. De esta manera, mejora en comprensión, planificación y el esfuerzo bien estructurado de una implementación RPA.\nLas empresas deben tener un centro de excelencia RPA porque facilitan la adopción de automatizaciones, es mucho más eficaz cuando se enfoca a áreas como: operaciones, procesos, organización, tecnología y gobierno.\nAntes de realizar un centro de excelencia RPA es importante verificar si tus procesos son óptimos para mejorar o eliminar. De igual forma, saber si se puede involucrar un sistema central para mejorar la rentabilidad de la automatización; esto permitiría que la implementación sea exitosa. Por otro lado, ten en cuenta que “si los procesos se llevan a proveedores externos, el Centro de Excelencia debería utilizar una metodología que permita la entrega adecuada de la operación”.\nHemos creado una guía especial que te permita identificar el Centro de Excelencia de automatización adecuado para tu empresa y el estado actual de RPA; de qué manera hacerlo y consejos de nuestros expertos que te permite configurarlo. Léela completa: Aprende cómo construir un Centro de Excelencia RPA paso a paso\nEntonces, ¿cuál es el futuro de la automatización?\nLas ventajas de RPA se pueden potenciar al orquestar los procesos en que participa con BPM, también, la hiperautomatización, tendencia de la década agrega valor a esta tecnologías del software al hacer partícipe en procesos e2e junto a la Inteligencia Artificial, el Machine Learning, entre otras tecnologías.\nPor otro lado, el aprendizaje automático ayuda a sus bots a leer documentos de forma inteligente, para identificar elementos de datos estructurados, no estructurados y semiestructurados para procesar documentos de manera similar a cómo un humano podría completar tales tareas.\n¿Tienes una idea sobre como aprovechar esta tecnología?\nContáctanos y nuestro equipo te ayudará a construir el mejor Caso de Negocio para evaluar el beneficio, el costo y el riesgo de implementarla.",
+    "palabras": 3464
+}

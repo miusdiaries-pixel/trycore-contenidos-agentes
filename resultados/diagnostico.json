@@ -1,0 +1,295 @@
+{
+    "fuente": {
+        "url": "https://trycore.com/guia-de-automatizacion-con-rpa/",
+        "origen": "web",
+        "avisos": []
+    },
+    "titulo": "Guía de Automatización Robótica de Procesos RPA • Trycore",
+    "descripcion": "Con nuestra guía RPA podrás conocer la información relacionada de esta tecnología y la mejor manera para identificar los procesos.",
+    "indicadores": {
+        "palabras": 3464,
+        "secciones": 19,
+        "temas_desarrollables": 17,
+        "listas": 3,
+        "elementos_mayor_lista": 29,
+        "pasos_numerados": 5,
+        "cifras": 2,
+        "cifras_sin_fuente": 2,
+        "palabras_por_frase": 17.9,
+        "legibilidad": "buena",
+        "productos_vigentes_mencionados": []
+    },
+    "temas": [
+        {
+            "titulo": "Introducción",
+            "palabras": 193,
+            "desarrollable": true
+        },
+        {
+            "titulo": "¿Qué es RPA?",
+            "palabras": 66,
+            "desarrollable": true
+        },
+        {
+            "titulo": "Características de la automatización robótica de procesos (RPA)",
+            "palabras": 71,
+            "desarrollable": true
+        },
+        {
+            "titulo": "¿Cómo funciona la automatización robótica RPA?",
+            "palabras": 274,
+            "desarrollable": true
+        },
+        {
+            "titulo": "Mitos de automatización robótica RPA",
+            "palabras": 103,
+            "desarrollable": true
+        },
+        {
+            "titulo": "Impacto humano de RPA",
+            "palabras": 264,
+            "desarrollable": true
+        },
+        {
+            "titulo": "¿Por qué automatizar con RPA?",
+            "palabras": 195,
+            "desarrollable": true
+        },
+        {
+            "titulo": "¿Qué tareas puedo automatizar con RPA?",
+            "palabras": 148,
+            "desarrollable": true
+        },
+        {
+            "titulo": "¿Cómo debes elegir un proceso para automatizar con RPA?",
+            "palabras": 0,
+            "desarrollable": false
+        },
+        {
+            "titulo": "Metodología de implementación de RPA",
+            "palabras": 376,
+            "desarrollable": true
+        },
+        {
+            "titulo": "¿Qué herramientas de automatización robótica hay? Conoce las mejores plataformas",
+            "palabras": 295,
+            "desarrollable": true
+        },
+        {
+            "titulo": "¿Cómo obtener valor en las pruebas de concepto de RPA?",
+            "palabras": 142,
+            "desarrollable": true
+        },
+        {
+            "titulo": "Errores comunes en una automatización",
+            "palabras": 296,
+            "desarrollable": true
+        },
+        {
+            "titulo": "¿Cómo medir el rendimiento de la automatización RPA?",
+            "palabras": 143,
+            "desarrollable": true
+        },
+        {
+            "titulo": "Mide el éxito de tu implementación RPA",
+            "palabras": 21,
+            "desarrollable": false
+        },
+        {
+            "titulo": "¿Cómo escalar RPA?",
+            "palabras": 182,
+            "desarrollable": true
+        },
+        {
+            "titulo": "Entonces, ¿cómo se escala una automatización?",
+            "palabras": 135,
+            "desarrollable": true
+        },
+        {
+            "titulo": "Construye un Centro de Excelencia",
+            "palabras": 202,
+            "desarrollable": true
+        },
+        {
+            "titulo": "Entonces, ¿cuál es el futuro de la automatización?",
+            "palabras": 87,
+            "desarrollable": true
+        },
+        {
+            "titulo": "¿Tienes una idea sobre como aprovechar esta tecnología?",
+            "palabras": 24,
+            "desarrollable": false
+        }
+    ],
+    "cifras": [
+        {
+            "valor": "4.0",
+            "frase": "RPA tiene el potencial de transformar la metodología de trabajo y de impulsar de la transformación que propone la industria 4.0, además, es posible obtener un r",
+            "con_fuente": false
+        },
+        {
+            "valor": "100%",
+            "frase": "La precisión del robot de RPA es del 100%.",
+            "con_fuente": false
+        }
+    ],
+    "nombres_propios_no_vigentes": [
+        {
+            "nombre": "Centro",
+            "veces": 4
+        },
+        {
+            "nombre": "Excelencia",
+            "veces": 3
+        },
+        {
+            "nombre": "Automatización Robótica",
+            "veces": 2
+        },
+        {
+            "nombre": "Conoce",
+            "veces": 2
+        },
+        {
+            "nombre": "PoC",
+            "veces": 2
+        },
+        {
+            "nombre": "Robotic Process Automation",
+            "veces": 1
+        },
+        {
+            "nombre": "Inicio",
+            "veces": 1
+        },
+        {
+            "nombre": "Además",
+            "veces": 1
+        },
+        {
+            "nombre": "Piensa",
+            "veces": 1
+        },
+        {
+            "nombre": "Martín",
+            "veces": 1
+        },
+        {
+            "nombre": "Jesús Segura",
+            "veces": 1
+        },
+        {
+            "nombre": "Turbo",
+            "veces": 1
+        },
+        {
+            "nombre": "Razones",
+            "veces": 1
+        },
+        {
+            "nombre": "Procesos",
+            "veces": 1
+        },
+        {
+            "nombre": "Cómo",
+            "veces": 1
+        },
+        {
+            "nombre": "Asigna",
+            "veces": 1
+        },
+        {
+            "nombre": "Elegir",
+            "veces": 1
+        },
+        {
+            "nombre": "Comparación",
+            "veces": 1
+        },
+        {
+            "nombre": "Excel",
+            "veces": 1
+        },
+        {
+            "nombre": "Macros",
+            "veces": 1
+        }
+    ],
+    "aptitud_formatos": [
+        {
+            "formato": "post_linkedin",
+            "apto": true,
+            "razon": "Hay al menos una sección con desarrollo suficiente para una idea central",
+            "requiere": [
+                "una idea central desarrollable"
+            ]
+        },
+        {
+            "formato": "carrusel_linkedin",
+            "apto": true,
+            "razon": "Hay una lista o pasos de 29 elementos (mínimo 5)",
+            "requiere": [
+                "una lista, pasos o comparación de al menos 5 elementos"
+            ]
+        },
+        {
+            "formato": "newsletter",
+            "apto": true,
+            "razon": "Hay 17 temas desarrollables (mínimo 3)",
+            "requiere": [
+                "al menos 3 temas desarrollables"
+            ]
+        },
+        {
+            "formato": "guion_video_corto",
+            "apto": true,
+            "razon": "Hay al menos 3 puntos claros",
+            "requiere": [
+                "al menos 3 puntos claros"
+            ]
+        },
+        {
+            "formato": "caso_de_exito",
+            "apto": false,
+            "razon": "La pieza madre no tiene: testimonio de un cliente real con nombre y cargo ni resultados medibles con fuente",
+            "requiere": [
+                "testimonio de un cliente real con nombre y cargo",
+                "resultados medibles de ese cliente"
+            ]
+        },
+        {
+            "formato": "infografia",
+            "apto": true,
+            "razon": "Hay una lista o pasos de 29 elementos; se usarán 5 a 7",
+            "requiere": [
+                "5 a 7 datos o pasos; si son datos, cada uno con su fuente"
+            ]
+        }
+    ],
+    "alertas": [
+        {
+            "nivel": "media",
+            "tipo": "cifra_sin_fuente",
+            "mensaje": "Cifra «4.0» sin fuente en la pieza madre: marcar para revisión",
+            "detalle": "RPA tiene el potencial de transformar la metodología de trabajo y de impulsar de la transformación que propone la industria 4.0, además, es posible obtener un r"
+        },
+        {
+            "nivel": "media",
+            "tipo": "cifra_sin_fuente",
+            "mensaje": "Cifra «100%» sin fuente en la pieza madre: marcar para revisión",
+            "detalle": "La precisión del robot de RPA es del 100%."
+        },
+        {
+            "nivel": "info",
+            "tipo": "productos",
+            "mensaje": "La pieza madre no menciona ningún producto vigente",
+            "detalle": null
+        },
+        {
+            "nivel": "info",
+            "tipo": "nombres_propios",
+            "mensaje": "Nombres propios que no son productos vigentes (no deben aparecer como productos en las derivadas): Centro, Excelencia, Automatización Robótica, Conoce, PoC, Robotic Process Automation, Inicio, Además",
+            "detalle": null
+        }
+    ]
+}
