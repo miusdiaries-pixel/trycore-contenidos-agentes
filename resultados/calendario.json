@@ -1,0 +1,197 @@
+{
+    "ventana": {
+        "inicio": "2026-11-30",
+        "fin": "2026-12-11"
+    },
+    "ya_agendadas": [
+        {
+            "inicio": "2026-12-01T08:30:00-05:00",
+            "canal": "linkedin",
+            "formato": "post_linkedin",
+            "tema": "rpa",
+            "titulo": "Tres señales de que un proceso está listo para automatizarse",
+            "estado": "programada",
+            "existente": true
+        },
+        {
+            "inicio": "2026-12-03T11:00:00-05:00",
+            "canal": "linkedin",
+            "formato": "carrusel_linkedin",
+            "tema": "docfly",
+            "titulo": "Cómo se lee un documento difícil",
+            "estado": "programada",
+            "existente": true
+        },
+        {
+            "inicio": "2026-12-07T11:00:00-05:00",
+            "canal": "linkedin",
+            "formato": "post_linkedin",
+            "tema": "people_service",
+            "titulo": "Perfiles TI que más se piden este trimestre",
+            "estado": "programada",
+            "existente": true
+        },
+        {
+            "inicio": "2026-12-10T08:30:00-05:00",
+            "canal": "newsletter",
+            "formato": "newsletter",
+            "tema": "marca",
+            "titulo": "Novedades de Trycore",
+            "estado": "programada",
+            "existente": true
+        }
+    ],
+    "programadas": [
+        {
+            "id": "carrusel_linkedin-1",
+            "fecha": "2026-12-03",
+            "hora": "08:30",
+            "formato": "carrusel_linkedin",
+            "tema": "rpa",
+            "titulo": "Lo esencial sobre errores comunes en una automatización, en pocas láminas",
+            "estado": "pendiente_de_aprobacion",
+            "puntaje": {
+                "puntaje": 97,
+                "semaforo": "verde",
+                "confianza": "alta",
+                "tasa_esperada": 0.0444,
+                "detalle": {
+                    "formato": {
+                        "valor": "carrusel_linkedin",
+                        "n": 15,
+                        "mediana": 0.0478
+                    },
+                    "tema": {
+                        "valor": "rpa",
+                        "n": 10,
+                        "mediana": 0.0408
+                    },
+                    "franja": {
+                        "valor": "08:30",
+                        "n": 20,
+                        "mediana": 0.0459
+                    },
+                    "mediana_global": 0.0413
+                },
+                "nota": ""
+            }
+        },
+        {
+            "id": "carrusel_linkedin-2",
+            "fecha": "2026-12-07",
+            "hora": "08:30",
+            "formato": "carrusel_linkedin",
+            "tema": "rpa",
+            "titulo": "Lo esencial sobre por qué automatizar con RPA, en pocas láminas",
+            "estado": "pendiente_de_aprobacion",
+            "puntaje": {
+                "puntaje": 97,
+                "semaforo": "verde",
+                "confianza": "alta",
+                "tasa_esperada": 0.0444,
+                "detalle": {
+                    "formato": {
+                        "valor": "carrusel_linkedin",
+                        "n": 15,
+                        "mediana": 0.0478
+                    },
+                    "tema": {
+                        "valor": "rpa",
+                        "n": 10,
+                        "mediana": 0.0408
+                    },
+                    "franja": {
+                        "valor": "08:30",
+                        "n": 20,
+                        "mediana": 0.0459
+                    },
+                    "mediana_global": 0.0413
+                },
+                "nota": ""
+            }
+        },
+        {
+            "id": "infografia-1",
+            "fecha": "2026-12-09",
+            "hora": "08:30",
+            "formato": "infografia",
+            "tema": "rpa",
+            "titulo": "Lo que debes saber sobre qué tareas puedo automatizar con RPA",
+            "estado": "pendiente_de_aprobacion",
+            "puntaje": {
+                "puntaje": 90,
+                "semaforo": "verde",
+                "confianza": "alta",
+                "tasa_esperada": 0.0434,
+                "detalle": {
+                    "formato": {
+                        "valor": "infografia",
+                        "n": 9,
+                        "mediana": 0.0457
+                    },
+                    "tema": {
+                        "valor": "rpa",
+                        "n": 10,
+                        "mediana": 0.0408
+                    },
+                    "franja": {
+                        "valor": "08:30",
+                        "n": 20,
+                        "mediana": 0.0459
+                    },
+                    "mediana_global": 0.0413
+                },
+                "nota": ""
+            }
+        }
+    ],
+    "no_ubicadas": [
+        {
+            "id": "guion_video_corto-1",
+            "formato": "guion_video_corto",
+            "motivo": "Separación mínima de 48 h con otra pieza del mismo tema"
+        },
+        {
+            "id": "newsletter-1",
+            "formato": "newsletter",
+            "motivo": "Separación mínima de 48 h con otra pieza del mismo tema"
+        },
+        {
+            "id": "post_linkedin-1",
+            "formato": "post_linkedin",
+            "motivo": "Separación mínima de 48 h con otra pieza del mismo tema"
+        },
+        {
+            "id": "post_linkedin-2",
+            "formato": "post_linkedin",
+            "motivo": "Separación mínima de 48 h con otra pieza del mismo tema"
+        }
+    ],
+    "conflictos_en_lo_ya_agendado": [],
+    "analisis_historial_por_formato": {
+        "carrusel_linkedin": {
+            "n": 15,
+            "mediana_tasa": 0.0478
+        },
+        "infografia": {
+            "n": 9,
+            "mediana_tasa": 0.0457
+        },
+        "guion_video_corto": {
+            "n": 9,
+            "mediana_tasa": 0.0439
+        },
+        "post_linkedin": {
+            "n": 27,
+            "mediana_tasa": 0.0319
+        }
+    },
+    "advertencias_historial": [
+        "P007: comentarios vacío, se toma como 0",
+        "Fila repetida descartada: P012",
+        "P020: comentarios vacío, se toma como 0",
+        "Fila repetida descartada: P031",
+        "P045: comentarios vacío, se toma como 0",
+        "Fila repetida descartada: P053"
+    ]
+}

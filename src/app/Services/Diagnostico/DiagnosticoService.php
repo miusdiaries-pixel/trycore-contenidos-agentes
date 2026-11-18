@@ -276,7 +276,7 @@ class DiagnosticoService
         }
         foreach ($config['nombres_confidenciales'] as $nombre) {
             if (Texto::contiene($c['texto'], $nombre)) {
-                $add('alta', 'nombre_confidencial', "La pieza madre menciona a «$nombre», nombre confidencial", Texto::contexto($c['texto'], $nombre));
+                $add('alta', 'nombre_confidencial', "La pieza madre menciona a «{$nombre}», nombre confidencial", Texto::contexto($c['texto'], $nombre));
             }
         }
         foreach ($cifras as $x) {

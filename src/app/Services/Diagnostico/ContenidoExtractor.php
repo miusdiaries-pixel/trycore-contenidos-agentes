@@ -80,7 +80,7 @@ class ContenidoExtractor
                 continue;
             }
             $padre = $n->parentNode;
-            $id = spl_object_id($padre);
+            $id = $padre->getNodePath();
             if (!isset($listaPorPadre[$id])) {
                 $listas[] = ['tipo' => strtolower($padre->nodeName), 'seccion' => $secciones[$actual]['titulo'], 'items' => []];
                 $listaPorPadre[$id] = count($listas) - 1;

@@ -1,8 +1,11 @@
 {
     "fuente": {
         "url": "https://trycore.com/guia-de-automatizacion-con-rpa/",
-        "origen": "web",
-        "avisos": []
+        "origen": "respaldo",
+        "avisos": [
+            "No se pudo descargar la URL: cURL error 28: Operation timed out after 20000 milliseconds with 999395 bytes received (see https://curl.se/libcurl/c/libcurl-errors.html) for https://trycore.com/guia-de-automatizacion-con-rpa/",
+            "Se usó la copia local de respaldo"
+        ]
     },
     "titulo": "Guía de Automatización Robótica de Procesos RPA • Trycore",
     "descripcion": "Con nuestra guía RPA podrás conocer la información relacionada de esta tecnología y la mejor manera para identificar los procesos.",
@@ -10,8 +13,8 @@
         "palabras": 3464,
         "secciones": 19,
         "temas_desarrollables": 17,
-        "listas": 3,
-        "elementos_mayor_lista": 29,
+        "listas": 16,
+        "elementos_mayor_lista": 10,
         "pasos_numerados": 5,
         "cifras": 2,
         "cifras_sin_fuente": 2,
@@ -227,7 +230,7 @@
         {
             "formato": "carrusel_linkedin",
             "apto": true,
-            "razon": "Hay una lista o pasos de 29 elementos (mínimo 5)",
+            "razon": "Hay una lista o pasos de 10 elementos (mínimo 5)",
             "requiere": [
                 "una lista, pasos o comparación de al menos 5 elementos"
             ]
@@ -260,13 +263,19 @@
         {
             "formato": "infografia",
             "apto": true,
-            "razon": "Hay una lista o pasos de 29 elementos; se usarán 5 a 7",
+            "razon": "Hay una lista o pasos de 10 elementos; se usarán 5 a 7",
             "requiere": [
                 "5 a 7 datos o pasos; si son datos, cada uno con su fuente"
             ]
         }
     ],
     "alertas": [
+        {
+            "nivel": "alta",
+            "tipo": "fuente",
+            "mensaje": "No se pudo descargar la URL: se usó la copia local de respaldo",
+            "detalle": "No se pudo descargar la URL: cURL error 28: Operation timed out after 20000 milliseconds with 999395 bytes received (see https://curl.se/libcurl/c/libcurl-errors.html) for https://trycore.com/guia-de-automatizacion-con-rpa/ | Se usó la copia local de respaldo"
+        },
         {
             "nivel": "media",
             "tipo": "cifra_sin_fuente",

@@ -375,27 +375,7 @@
             "tipo": "ul",
             "seccion": "Introducción",
             "items": [
-                "Inicio",
-                "Automatización asistida",
-                "La automatización robótica de procesos involucra robots físicos.",
-                "La automatización eliminará trabajos.",
-                "Esta tecnología es costosa.",
-                "La precisión del robot de RPA es del 100%.",
-                "RPA está creado solo para reducir costos.",
-                "Solo un desarrollador especializado puede automatizar.",
-                "Las tareas simples son las únicas que se pueden automatizar.",
-                "La automatización robótica puede automatizar todo.",
-                "Bots de automatización cognitiva: son bots de autoaprendizaje que pueden usar datos no estructurados y tomar decisiones basados en entradas complejas y no estructuradas.",
-                "Automatización de Excel y Macros: usualmente es una solución de automatización de procesos básicos y simples",
-                "Herramientas de autoaprendizaje: analiza acciones humanas y realiza lo mismo en varias plataformas",
-                "Solución programable de bots: podrás interactuar otros sistemas según los requisitos y/o entradas del cliente.",
-                "Identifica y mejora los puntos débiles en tu empresa para alcanzar la transformación digital.",
-                "Captura, mapea y mide los procesos de tu empresa.",
-                "Analiza y diseña procesos de automatización con el alcance definido y mapeado de la forma adecuada.",
-                "Planifica y prepara la implementación creando un modelo que permita contemplar aristas de precio, beneficios, entre otros; de cara a escalar.",
-                "Métricas que calculan beneficios por hora y persona.",
-                "Métricas para calcular nuevas iniciativas (ROI).",
-                "Métricas de mejora continua."
+                "Inicio"
             ]
         },
         {
@@ -406,38 +386,54 @@
                 "Programas que imitan la interacción humana con aplicaciones.",
                 "Aplicación multifuncional",
                 "Fuerza laboral virtual controlada por operaciones comerciales",
-                "Ágil y no invasivo, funciona con la arquitectura y el gobierno de TI existentes",
-                "Permite la escalabilidad en TI.",
-                "Gestionar los datos para evitar riesgos en el ingreso.",
-                "Control de fraude.",
-                "Reducción de costos.",
-                "Precisión y reducción de errores tipográficos e información incorrecta.",
-                "Reducción de tiempos.",
-                "La automatización robótica funciona como integración para aplicaciones sin API.",
-                "Comprende el proceso que vas a automatizar en la primera implementación RPA.",
-                "Documenta los procesos elegidos.",
-                "Crea una cultura de RPA que comprenda sus beneficios.",
-                "Elige una buena plataforma de automatización robótica.",
-                "Enfócate en los objetivos.",
-                "Sé estratégico.",
-                "Piensa el proyecto a largo plazo.",
-                "Calcula siempre el retorno a la inversión de la implementación RPA.",
-                "Escalabilidad: selecciona una herramienta que te permita responder fácilmente a los requisitos o cambios de tus usuarios, ya sean internos o externos.",
-                "Tecnología: considera que la herramienta admita cualquier tipo de aplicación y sea independiente de la plataforma",
-                "Facilidad de uso: identifica qué tan fácil y amigable es la plataforma, no solo para disminuir tiempos de desarrollo sino para mejorar la satisfacción de los colaboradores",
-                "Seguridad: este es uno de los ítems más importantes, considera muchas medidas de seguridad antes de implementar bots en producción",
-                "Mantenimiento y soporte: procura que tu proveedor te brinde un modelo de soporte óptimo para garantizar que se cumplan todos los ANS.",
-                "Comprende la importancia de la gestión del cambio y de tus equipos.",
-                "Aborda procesos transversales y mejorados.",
-                "Optimiza los procesos antes de automatizarlos.",
-                "Configura una ruta a la automatización, pensando en el gobierno y trazabilidad que permita la excelencia operativa."
+                "Ágil y no invasivo, funciona con la arquitectura y el gobierno de TI existentes"
             ]
         },
         {
             "tipo": "ul",
             "seccion": "¿Cómo funciona la automatización robótica RPA?",
             "items": [
-                "Automatización desatendida",
+                "Automatización asistida"
+            ]
+        },
+        {
+            "tipo": "ul",
+            "seccion": "¿Cómo funciona la automatización robótica RPA?",
+            "items": [
+                "Automatización desatendida"
+            ]
+        },
+        {
+            "tipo": "ol",
+            "seccion": "Mitos de automatización robótica RPA",
+            "items": [
+                "La automatización robótica de procesos involucra robots físicos.",
+                "La automatización eliminará trabajos.",
+                "Esta tecnología es costosa.",
+                "La precisión del robot de RPA es del 100%.",
+                "RPA está creado solo para reducir costos.",
+                "Solo un desarrollador especializado puede automatizar.",
+                "Las tareas simples son las únicas que se pueden automatizar.",
+                "La automatización robótica puede automatizar todo."
+            ]
+        },
+        {
+            "tipo": "ol",
+            "seccion": "¿Por qué automatizar con RPA?",
+            "items": [
+                "Permite la escalabilidad en TI.",
+                "Gestionar los datos para evitar riesgos en el ingreso.",
+                "Control de fraude.",
+                "Reducción de costos.",
+                "Precisión y reducción de errores tipográficos e información incorrecta.",
+                "Reducción de tiempos.",
+                "La automatización robótica funciona como integración para aplicaciones sin API."
+            ]
+        },
+        {
+            "tipo": "ol",
+            "seccion": "¿Qué tareas puedo automatizar con RPA?",
+            "items": [
                 "Emula la acción humana.",
                 "Realiza tareas repetidas de gran volumen y varias tareas complejas.",
                 "Integra el sistema virtual, transfiriendo datos entre sistemas heredados, conectándose al nivel de la interfaz de usuario en lugar de desarrollar una nueva infraestructura de datos.",
@@ -447,11 +443,68 @@
                 "Gestiona productos, reduciendo la brecha entre los sistemas de TI y las plataformas de gestión de productos relacionados.",
                 "Brinda garantía de calidad.",
                 "Permite la migración de datos.",
-                "Permite predecir la previsión de ingresos.",
+                "Permite predecir la previsión de ingresos."
+            ]
+        },
+        {
+            "tipo": "ol",
+            "seccion": "Metodología de implementación de RPA",
+            "items": [
+                "Comprende el proceso que vas a automatizar en la primera implementación RPA.",
+                "Documenta los procesos elegidos.",
+                "Crea una cultura de RPA que comprenda sus beneficios.",
+                "Elige una buena plataforma de automatización robótica.",
+                "Enfócate en los objetivos.",
+                "Sé estratégico.",
+                "Piensa el proyecto a largo plazo.",
+                "Calcula siempre el retorno a la inversión de la implementación RPA."
+            ]
+        },
+        {
+            "tipo": "ul",
+            "seccion": "¿Qué herramientas de automatización robótica hay? Conoce las mejores plataformas",
+            "items": [
                 "En los datos, que sean de fácil lectura y escritura de datos comerciales en múltiples sistemas.",
                 "En la facilidad para configurar procesos basados ​​en reglas o basados ​​en conocimiento.",
                 "Las herramientas deben funcionar en varias aplicaciones.",
-                "De ser posible, que tenga compatibilidad con inteligencia artificial incorporada para imitar a los usuarios humanos.",
+                "De ser posible, que tenga compatibilidad con inteligencia artificial incorporada para imitar a los usuarios humanos."
+            ]
+        },
+        {
+            "tipo": "ul",
+            "seccion": "¿Qué herramientas de automatización robótica hay? Conoce las mejores plataformas",
+            "items": [
+                "Bots de automatización cognitiva: son bots de autoaprendizaje que pueden usar datos no estructurados y tomar decisiones basados en entradas complejas y no estructuradas.",
+                "Automatización de Excel y Macros: usualmente es una solución de automatización de procesos básicos y simples",
+                "Herramientas de autoaprendizaje: analiza acciones humanas y realiza lo mismo en varias plataformas",
+                "Solución programable de bots: podrás interactuar otros sistemas según los requisitos y/o entradas del cliente."
+            ]
+        },
+        {
+            "tipo": "ol",
+            "seccion": "¿Qué herramientas de automatización robótica hay? Conoce las mejores plataformas",
+            "items": [
+                "Escalabilidad: selecciona una herramienta que te permita responder fácilmente a los requisitos o cambios de tus usuarios, ya sean internos o externos.",
+                "Tecnología: considera que la herramienta admita cualquier tipo de aplicación y sea independiente de la plataforma",
+                "Facilidad de uso: identifica qué tan fácil y amigable es la plataforma, no solo para disminuir tiempos de desarrollo sino para mejorar la satisfacción de los colaboradores",
+                "Seguridad: este es uno de los ítems más importantes, considera muchas medidas de seguridad antes de implementar bots en producción",
+                "Mantenimiento y soporte: procura que tu proveedor te brinde un modelo de soporte óptimo para garantizar que se cumplan todos los ANS."
+            ]
+        },
+        {
+            "tipo": "ul",
+            "seccion": "¿Cómo obtener valor en las pruebas de concepto de RPA?",
+            "items": [
+                "Identifica y mejora los puntos débiles en tu empresa para alcanzar la transformación digital.",
+                "Captura, mapea y mide los procesos de tu empresa.",
+                "Analiza y diseña procesos de automatización con el alcance definido y mapeado de la forma adecuada.",
+                "Planifica y prepara la implementación creando un modelo que permita contemplar aristas de precio, beneficios, entre otros; de cara a escalar."
+            ]
+        },
+        {
+            "tipo": "ul",
+            "seccion": "Errores comunes en una automatización",
+            "items": [
                 "Considera el impacto comercial antes de optar por algún proceso a automatizar con RPA.",
                 "Combina RPA atendido y desatendido.",
                 "Define y enfócate en el ROI deseado",
@@ -459,10 +512,35 @@
                 "Piensa en el impacto que tiene la implementación en las personas.",
                 "La gobernanza del proyecto es lo más importante en el proceso de RPA. Garantiza el cumplimiento de las políticas de la empresa.",
                 "Asegurate que proyectos e iniciativas de RPA estén alineados con los objetivos de transformación digital de mayor alcance y relevancia.",
-                "Considera implementar una plataforma RPA empresarial, estableciendo una perspectiva para la privacidad de datos y el desarrollo continuo.",
+                "Considera implementar una plataforma RPA empresarial, estableciendo una perspectiva para la privacidad de datos y el desarrollo continuo."
+            ]
+        },
+        {
+            "tipo": "ul",
+            "seccion": "¿Cómo medir el rendimiento de la automatización RPA?",
+            "items": [
+                "Métricas que calculan beneficios por hora y persona.",
+                "Métricas para calcular nuevas iniciativas (ROI).",
+                "Métricas de mejora continua."
+            ]
+        },
+        {
+            "tipo": "ol",
+            "seccion": "¿Cómo escalar RPA?",
+            "items": [
                 "La clave para escalar es la gobernabilidad y elegir los procesos correctos desde el inicio.",
                 "Empodera los equipos.",
                 "Descubre tu nivel de automatización."
+            ]
+        },
+        {
+            "tipo": "ol",
+            "seccion": "Entonces, ¿cómo se escala una automatización?",
+            "items": [
+                "Comprende la importancia de la gestión del cambio y de tus equipos.",
+                "Aborda procesos transversales y mejorados.",
+                "Optimiza los procesos antes de automatizarlos.",
+                "Configura una ruta a la automatización, pensando en el gobierno y trazabilidad que permita la excelencia operativa."
             ]
         }
     ],

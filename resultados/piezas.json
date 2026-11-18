@@ -1,0 +1,406 @@
+{
+    "tema": "rpa",
+    "piezas": [
+        {
+            "id": "carrusel_linkedin-1",
+            "formato": "carrusel_linkedin",
+            "canal": "linkedin",
+            "numero": 1,
+            "tema": "rpa",
+            "titulo": "Lo esencial sobre errores comunes en una automatización, en pocas láminas",
+            "contenido": {
+                "portada": "Lo esencial sobre errores comunes en una automatización, en pocas láminas",
+                "laminas": [
+                    "Considera el impacto comercial antes de optar por algún proceso a automatizar con RPA. Sigue →",
+                    "Combina RPA atendido y desatendido. Hay más →",
+                    "Define y enfócate en el ROI deseado. Mira lo que sigue →",
+                    "Céntrate en procesos correctos y viables para automatizar. Y esto continúa →",
+                    "La gobernanza del proyecto es lo más importante en el proceso de RPA. Garantiza el cumplimiento de las políticas de la empresa. Pasa a la siguiente →",
+                    "Asegurate que proyectos e iniciativas de RPA estén alineados con los objetivos de transformación digital de mayor alcance y relevancia. Sigue →",
+                    "Considera implementar una plataforma RPA empresarial, estableciendo una perspectiva para la privacidad de datos y el desarrollo continuo. Hay más →"
+                ],
+                "cierre": "Ahora conoces lo esencial sobre errores comunes en una automatización. Tu siguiente paso: lee el contenido completo. https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-1"
+            },
+            "texto": "Lo esencial sobre errores comunes en una automatización, en pocas láminas\nConsidera el impacto comercial antes de optar por algún proceso a automatizar con RPA. Sigue →\nCombina RPA atendido y desatendido. Hay más →\nDefine y enfócate en el ROI deseado. Mira lo que sigue →\nCéntrate en procesos correctos y viables para automatizar. Y esto continúa →\nLa gobernanza del proyecto es lo más importante en el proceso de RPA. Garantiza el cumplimiento de las políticas de la empresa. Pasa a la siguiente →\nAsegurate que proyectos e iniciativas de RPA estén alineados con los objetivos de transformación digital de mayor alcance y relevancia. Sigue →\nConsidera implementar una plataforma RPA empresarial, estableciendo una perspectiva para la privacidad de datos y el desarrollo continuo. Hay más →\nAhora conoces lo esencial sobre errores comunes en una automatización. Tu siguiente paso: lee el contenido completo. https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-1",
+            "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-1",
+            "seccion_origen": "Errores comunes en una automatización",
+            "validacion": {
+                "ok": true,
+                "errores": [],
+                "revisar": []
+            },
+            "estado": "pendiente_de_aprobacion",
+            "puntaje": {
+                "puntaje": 97,
+                "semaforo": "verde",
+                "confianza": "alta",
+                "tasa_esperada": 0.0444,
+                "detalle": {
+                    "formato": {
+                        "valor": "carrusel_linkedin",
+                        "n": 15,
+                        "mediana": 0.0478
+                    },
+                    "tema": {
+                        "valor": "rpa",
+                        "n": 10,
+                        "mediana": 0.0408
+                    },
+                    "franja": {
+                        "valor": "08:30",
+                        "n": 20,
+                        "mediana": 0.0459
+                    },
+                    "mediana_global": 0.0413
+                },
+                "nota": ""
+            },
+            "inicio": "2026-12-03T08:30:00-05:00",
+            "fecha": "2026-12-03",
+            "hora": "08:30"
+        },
+        {
+            "id": "carrusel_linkedin-2",
+            "formato": "carrusel_linkedin",
+            "canal": "linkedin",
+            "numero": 2,
+            "tema": "rpa",
+            "titulo": "Lo esencial sobre por qué automatizar con RPA, en pocas láminas",
+            "contenido": {
+                "portada": "Lo esencial sobre por qué automatizar con RPA, en pocas láminas",
+                "laminas": [
+                    "Permite la escalabilidad en TI. Sigue →",
+                    "Gestionar los datos para evitar riesgos en el ingreso. Hay más →",
+                    "Control de fraude. Mira lo que sigue →",
+                    "Reducción de costos. Y esto continúa →",
+                    "Precisión y reducción de errores tipográficos e información incorrecta. Pasa a la siguiente →",
+                    "Reducción de tiempos. Sigue →"
+                ],
+                "cierre": "Ahora conoces lo esencial sobre por qué automatizar con RPA. Tu siguiente paso: lee el contenido completo. https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-2"
+            },
+            "texto": "Lo esencial sobre por qué automatizar con RPA, en pocas láminas\nPermite la escalabilidad en TI. Sigue →\nGestionar los datos para evitar riesgos en el ingreso. Hay más →\nControl de fraude. Mira lo que sigue →\nReducción de costos. Y esto continúa →\nPrecisión y reducción de errores tipográficos e información incorrecta. Pasa a la siguiente →\nReducción de tiempos. Sigue →\nAhora conoces lo esencial sobre por qué automatizar con RPA. Tu siguiente paso: lee el contenido completo. https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-2",
+            "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-2",
+            "seccion_origen": "¿Por qué automatizar con RPA?",
+            "validacion": {
+                "ok": true,
+                "errores": [],
+                "revisar": []
+            },
+            "estado": "pendiente_de_aprobacion",
+            "puntaje": {
+                "puntaje": 97,
+                "semaforo": "verde",
+                "confianza": "alta",
+                "tasa_esperada": 0.0444,
+                "detalle": {
+                    "formato": {
+                        "valor": "carrusel_linkedin",
+                        "n": 15,
+                        "mediana": 0.0478
+                    },
+                    "tema": {
+                        "valor": "rpa",
+                        "n": 10,
+                        "mediana": 0.0408
+                    },
+                    "franja": {
+                        "valor": "08:30",
+                        "n": 20,
+                        "mediana": 0.0459
+                    },
+                    "mediana_global": 0.0413
+                },
+                "nota": ""
+            },
+            "inicio": "2026-12-07T08:30:00-05:00",
+            "fecha": "2026-12-07",
+            "hora": "08:30"
+        },
+        {
+            "id": "infografia-1",
+            "formato": "infografia",
+            "canal": "linkedin",
+            "numero": 1,
+            "tema": "rpa",
+            "titulo": "Lo que debes saber sobre qué tareas puedo automatizar con RPA",
+            "contenido": {
+                "titulo": "Lo que debes saber sobre qué tareas puedo automatizar con RPA",
+                "elementos": [
+                    {
+                        "texto": "Emula la acción humana.",
+                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
+                    },
+                    {
+                        "texto": "Realiza tareas repetidas de gran volumen y varias tareas complejas.",
+                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
+                    },
+                    {
+                        "texto": "Generación de informes automáticos.",
+                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
+                    },
+                    {
+                        "texto": "Validación y auditoría de la información.",
+                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
+                    },
+                    {
+                        "texto": "Brinda garantía de calidad.",
+                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
+                    },
+                    {
+                        "texto": "Permite la migración de datos.",
+                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
+                    },
+                    {
+                        "texto": "Permite predecir la previsión de ingresos.",
+                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
+                    }
+                ]
+            },
+            "texto": "Lo que debes saber sobre qué tareas puedo automatizar con RPA\nEmula la acción humana. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nRealiza tareas repetidas de gran volumen y varias tareas complejas. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nGeneración de informes automáticos. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nValidación y auditoría de la información. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nBrinda garantía de calidad. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nPermite la migración de datos. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nPermite predecir la previsión de ingresos. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)",
+            "enlace": null,
+            "seccion_origen": "¿Qué tareas puedo automatizar con RPA?",
+            "validacion": {
+                "ok": true,
+                "errores": [],
+                "revisar": []
+            },
+            "estado": "pendiente_de_aprobacion",
+            "puntaje": {
+                "puntaje": 90,
+                "semaforo": "verde",
+                "confianza": "alta",
+                "tasa_esperada": 0.0434,
+                "detalle": {
+                    "formato": {
+                        "valor": "infografia",
+                        "n": 9,
+                        "mediana": 0.0457
+                    },
+                    "tema": {
+                        "valor": "rpa",
+                        "n": 10,
+                        "mediana": 0.0408
+                    },
+                    "franja": {
+                        "valor": "08:30",
+                        "n": 20,
+                        "mediana": 0.0459
+                    },
+                    "mediana_global": 0.0413
+                },
+                "nota": ""
+            },
+            "inicio": "2026-12-09T08:30:00-05:00",
+            "fecha": "2026-12-09",
+            "hora": "08:30"
+        }
+    ],
+    "no_ubicadas": [
+        {
+            "id": "guion_video_corto-1",
+            "formato": "guion_video_corto",
+            "canal": "linkedin",
+            "numero": 1,
+            "tema": "rpa",
+            "titulo": "¿Qué tanto sabes sobre impacto humano de RPA?",
+            "contenido": {
+                "gancho": "¿Qué tanto sabes sobre impacto humano de RPA?",
+                "puntos": [
+                    "Le dejamos a los bots lo repetitivo y a las personas lo importante. ¿Cuáles son los retos empresariales para iniciar con RPA? Habla aquí sobre el proyecto de automatización que tengas contemplado.",
+                    "Contar con bots de RPA es muy importante en todas las industrias actualmente. Datos que debes saber antes de iniciar una consultoría en RPA.",
+                    "De esta manera, debe ser un proyecto que se lleve a cabo de forma minuciosa, con acciones coordinadas y rigor. Así se abordarán posibles riesgos, barreras y preocupaciones; y evitar la ansiedad por la automatización. Prioriza los posibles casos de uso para la automatización en tu proyecto. Selecciona el caso de uso con el mayor impacto comercial esperado y asegura la aceptación de las partes interesadas."
+                ],
+                "cierre": "Si quieres saber más, lee el contenido completo. Y cuéntanos qué opinas en los comentarios.",
+                "palabras": 69,
+                "duracion_estimada_segundos": 28
+            },
+            "texto": "¿Qué tanto sabes sobre impacto humano de RPA?\nLe dejamos a los bots lo repetitivo y a las personas lo importante. ¿Cuáles son los retos empresariales para iniciar con RPA? Habla aquí sobre el proyecto de automatización que tengas contemplado.\nContar con bots de RPA es muy importante en todas las industrias actualmente. Datos que debes saber antes de iniciar una consultoría en RPA.\nDe esta manera, debe ser un proyecto que se lleve a cabo de forma minuciosa, con acciones coordinadas y rigor. Así se abordarán posibles riesgos, barreras y preocupaciones; y evitar la ansiedad por la automatización. Prioriza los posibles casos de uso para la automatización en tu proyecto. Selecciona el caso de uso con el mayor impacto comercial esperado y asegura la aceptación de las partes interesadas.\nSi quieres saber más, lee el contenido completo. Y cuéntanos qué opinas en los comentarios.",
+            "enlace": null,
+            "seccion_origen": "Impacto humano de RPA / ¿Por qué automatizar con RPA? / Metodología de implementación de RPA",
+            "validacion": {
+                "ok": true,
+                "errores": [],
+                "revisar": []
+            },
+            "estado": "pendiente_de_aprobacion",
+            "puntaje": {
+                "puntaje": 55,
+                "semaforo": "amarillo",
+                "confianza": "alta",
+                "tasa_esperada": 0.0422,
+                "detalle": {
+                    "formato": {
+                        "valor": "guion_video_corto",
+                        "n": 9,
+                        "mediana": 0.0439
+                    },
+                    "tema": {
+                        "valor": "rpa",
+                        "n": 10,
+                        "mediana": 0.0408
+                    },
+                    "mediana_global": 0.0413
+                },
+                "nota": ""
+            },
+            "motivo": "Separación mínima de 48 h con otra pieza del mismo tema"
+        },
+        {
+            "id": "newsletter-1",
+            "formato": "newsletter",
+            "canal": "newsletter",
+            "numero": 1,
+            "tema": "rpa",
+            "titulo": "Guía de Automatización Robótica de Procesos RPA",
+            "contenido": {
+                "asunto": "Guía de Automatización Robótica de Procesos RPA",
+                "introduccion": "En este correo repasamos tres ideas clave de Guía de Automatización Robótica de Procesos RPA: cómo funciona la automatización robótica RPA, impacto humano de RPA y por qué automatizar con RPA. Con nuestra guía RPA podrás conocer la información relacionada de esta tecnología y la mejor manera para identificar los procesos.",
+                "secciones": [
+                    {
+                        "subtitulo": "¿Cómo funciona la automatización robótica RPA?",
+                        "texto": "En ocasiones la palabra robótica puede confundir a la persona que desconoce la tecnología. Cuando se habla de RPA se habla de un software y no de un robot físico; más bien se trabaja en software para realizar tareas repetitivas, de gran volumen para la organización y que tienen un impacto en el negocio amplio. Para entender el funcionamiento de la RPA es importante diferenciar dos tipos de automatización, que funcionan según la forma en el que dicho robot te ayuda a automatizar. La automatización asistida consiste en asistentes que se ejecutan en la máquina y te ayudan a completar una parte de las tareas que estás llevando a cabo."
+                    },
+                    {
+                        "subtitulo": "Impacto humano de RPA",
+                        "texto": "Le dejamos a los bots lo repetitivo y a las personas lo importante. ¿Cuáles son los retos empresariales para iniciar con RPA? El desconocimiento sobre esta automatización es una de las razones más relevantes que evitan que los empresarios adopten RPA en sus empresas. Habla aquí sobre el proyecto de automatización que tengas contemplado."
+                    },
+                    {
+                        "subtitulo": "¿Por qué automatizar con RPA?",
+                        "texto": "Contar con bots de RPA es muy importante en todas las industrias actualmente. De cara a la pandemia de la COVID-19 ha explotado su potencial y ha contribuido de forma acertada a luchar contra este virus, puedes leer un poco más de cómo se están usando los bots actualmente. Datos que debes saber antes de iniciar una consultoría en RPA."
+                    }
+                ],
+                "llamado_a_la_accion": "Si quieres profundizar, lee el contenido completo: https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=newsletter&utm_medium=email&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=newsletter-1"
+            },
+            "texto": "Guía de Automatización Robótica de Procesos RPA\n\nEn este correo repasamos tres ideas clave de Guía de Automatización Robótica de Procesos RPA: cómo funciona la automatización robótica RPA, impacto humano de RPA y por qué automatizar con RPA. Con nuestra guía RPA podrás conocer la información relacionada de esta tecnología y la mejor manera para identificar los procesos.\n\n¿Cómo funciona la automatización robótica RPA?\nEn ocasiones la palabra robótica puede confundir a la persona que desconoce la tecnología. Cuando se habla de RPA se habla de un software y no de un robot físico; más bien se trabaja en software para realizar tareas repetitivas, de gran volumen para la organización y que tienen un impacto en el negocio amplio. Para entender el funcionamiento de la RPA es importante diferenciar dos tipos de automatización, que funcionan según la forma en el que dicho robot te ayuda a automatizar. La automatización asistida consiste en asistentes que se ejecutan en la máquina y te ayudan a completar una parte de las tareas que estás llevando a cabo.\n\nImpacto humano de RPA\nLe dejamos a los bots lo repetitivo y a las personas lo importante. ¿Cuáles son los retos empresariales para iniciar con RPA? El desconocimiento sobre esta automatización es una de las razones más relevantes que evitan que los empresarios adopten RPA en sus empresas. Habla aquí sobre el proyecto de automatización que tengas contemplado.\n\n¿Por qué automatizar con RPA?\nContar con bots de RPA es muy importante en todas las industrias actualmente. De cara a la pandemia de la COVID-19 ha explotado su potencial y ha contribuido de forma acertada a luchar contra este virus, puedes leer un poco más de cómo se están usando los bots actualmente. Datos que debes saber antes de iniciar una consultoría en RPA.\n\nSi quieres profundizar, lee el contenido completo: https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=newsletter&utm_medium=email&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=newsletter-1",
+            "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=newsletter&utm_medium=email&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=newsletter-1",
+            "seccion_origen": "¿Cómo funciona la automatización robótica RPA? / Impacto humano de RPA / ¿Por qué automatizar con RPA?",
+            "validacion": {
+                "ok": true,
+                "errores": [],
+                "revisar": []
+            },
+            "estado": "pendiente_de_aprobacion",
+            "puntaje": {
+                "puntaje": 47,
+                "semaforo": "amarillo",
+                "confianza": "baja",
+                "tasa_esperada": 0.0412,
+                "detalle": {
+                    "formato": {
+                        "valor": "newsletter",
+                        "n": 0,
+                        "mediana": 0.0413
+                    },
+                    "tema": {
+                        "valor": "rpa",
+                        "n": 10,
+                        "mediana": 0.0408
+                    },
+                    "mediana_global": 0.0413
+                },
+                "nota": "No hay historial de este formato: el puntaje se apoya solo en el tema y en el promedio global"
+            },
+            "motivo": "Separación mínima de 48 h con otra pieza del mismo tema"
+        },
+        {
+            "id": "post_linkedin-1",
+            "formato": "post_linkedin",
+            "canal": "linkedin",
+            "numero": 1,
+            "tema": "rpa",
+            "titulo": "¿Qué tanto sabes sobre metodología de implementación de RPA?",
+            "contenido": {
+                "gancho": "¿Qué tanto sabes sobre metodología de implementación de RPA?",
+                "desarrollo": [
+                    "Cuando se trata de automatizar con RPA es importante contar con un plan bien definido desde el inicio, el cual busque aprovechar al máximo el tiempo y los recursos necesarios para implementar esta tecnología. De esta manera, debe ser un proyecto que se lleve a cabo de forma minuciosa, con acciones coordinadas y rigor.",
+                    "Así se abordarán posibles riesgos, barreras y preocupaciones; y evitar la ansiedad por la automatización."
+                ],
+                "llamado_a_la_accion": "¿Qué opinas? Cuéntanos tu experiencia en los comentarios. Si quieres profundizar, lee el contenido completo:",
+                "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-1"
+            },
+            "texto": "¿Qué tanto sabes sobre metodología de implementación de RPA?\n\nCuando se trata de automatizar con RPA es importante contar con un plan bien definido desde el inicio, el cual busque aprovechar al máximo el tiempo y los recursos necesarios para implementar esta tecnología. De esta manera, debe ser un proyecto que se lleve a cabo de forma minuciosa, con acciones coordinadas y rigor.\n\nAsí se abordarán posibles riesgos, barreras y preocupaciones; y evitar la ansiedad por la automatización.\n\n¿Qué opinas? Cuéntanos tu experiencia en los comentarios. Si quieres profundizar, lee el contenido completo:\nhttps://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-1",
+            "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-1",
+            "seccion_origen": "Metodología de implementación de RPA",
+            "validacion": {
+                "ok": true,
+                "errores": [],
+                "revisar": []
+            },
+            "estado": "pendiente_de_aprobacion",
+            "puntaje": {
+                "puntaje": 30,
+                "semaforo": "rojo",
+                "confianza": "alta",
+                "tasa_esperada": 0.0364,
+                "detalle": {
+                    "formato": {
+                        "valor": "post_linkedin",
+                        "n": 27,
+                        "mediana": 0.0319
+                    },
+                    "tema": {
+                        "valor": "rpa",
+                        "n": 10,
+                        "mediana": 0.0408
+                    },
+                    "mediana_global": 0.0413
+                },
+                "nota": ""
+            },
+            "motivo": "Separación mínima de 48 h con otra pieza del mismo tema"
+        },
+        {
+            "id": "post_linkedin-2",
+            "formato": "post_linkedin",
+            "canal": "linkedin",
+            "numero": 2,
+            "tema": "rpa",
+            "titulo": "¿Cómo funciona la automatización robótica RPA?",
+            "contenido": {
+                "gancho": "¿Cómo funciona la automatización robótica RPA?",
+                "desarrollo": [
+                    "En ocasiones la palabra robótica puede confundir a la persona que desconoce la tecnología. Cuando se habla de RPA se habla de un software y no de un robot físico; más bien se trabaja en software para realizar tareas repetitivas, de gran volumen para la organización y que tienen un impacto en el negocio amplio.",
+                    "Para entender el funcionamiento de la RPA es importante diferenciar dos tipos de automatización, que funcionan según la forma en el que dicho robot te ayuda a automatizar."
+                ],
+                "llamado_a_la_accion": "¿Qué opinas? Cuéntanos tu experiencia en los comentarios. Si quieres profundizar, lee el contenido completo:",
+                "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-2"
+            },
+            "texto": "¿Cómo funciona la automatización robótica RPA?\n\nEn ocasiones la palabra robótica puede confundir a la persona que desconoce la tecnología. Cuando se habla de RPA se habla de un software y no de un robot físico; más bien se trabaja en software para realizar tareas repetitivas, de gran volumen para la organización y que tienen un impacto en el negocio amplio.\n\nPara entender el funcionamiento de la RPA es importante diferenciar dos tipos de automatización, que funcionan según la forma en el que dicho robot te ayuda a automatizar.\n\n¿Qué opinas? Cuéntanos tu experiencia en los comentarios. Si quieres profundizar, lee el contenido completo:\nhttps://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-2",
+            "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-2",
+            "seccion_origen": "¿Cómo funciona la automatización robótica RPA?",
+            "validacion": {
+                "ok": true,
+                "errores": [],
+                "revisar": []
+            },
+            "estado": "pendiente_de_aprobacion",
+            "puntaje": {
+                "puntaje": 30,
+                "semaforo": "rojo",
+                "confianza": "alta",
+                "tasa_esperada": 0.0364,
+                "detalle": {
+                    "formato": {
+                        "valor": "post_linkedin",
+                        "n": 27,
+                        "mediana": 0.0319
+                    },
+                    "tema": {
+                        "valor": "rpa",
+                        "n": 10,
+                        "mediana": 0.0408
+                    },
+                    "mediana_global": 0.0413
+                },
+                "nota": ""
+            },
+            "motivo": "Separación mínima de 48 h con otra pieza del mismo tema"
+        }
+    ],
+    "omitidos": [
+        {
+            "formato": "caso_de_exito",
+            "motivo": "La pieza madre no tiene: testimonio de un cliente real con nombre y cargo ni resultados medibles con fuente"
+        }
+    ]
+}
