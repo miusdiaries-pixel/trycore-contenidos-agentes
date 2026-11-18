@@ -7,23 +7,20 @@
             "canal": "linkedin",
             "numero": 1,
             "tema": "rpa",
-            "titulo": "Lo esencial sobre errores comunes en una automatización, en pocas láminas",
+            "titulo": "Lo esencial sobre las ventajas de usar RPA, en pocas láminas",
             "contenido": {
-                "portada": "Lo esencial sobre errores comunes en una automatización, en pocas láminas",
+                "portada": "Lo esencial sobre las ventajas de usar RPA, en pocas láminas",
                 "laminas": [
-                    "Considera el impacto comercial antes de optar por algún proceso a automatizar con RPA. Sigue →",
-                    "Combina RPA atendido y desatendido. Hay más →",
-                    "Define y enfócate en el ROI deseado. Mira lo que sigue →",
-                    "Céntrate en procesos correctos y viables para automatizar. Y esto continúa →",
-                    "La gobernanza del proyecto es lo más importante en el proceso de RPA. Garantiza el cumplimiento de las políticas de la empresa. Pasa a la siguiente →",
-                    "Asegurate que proyectos e iniciativas de RPA estén alineados con los objetivos de transformación digital de mayor alcance y relevancia. Sigue →",
-                    "Considera implementar una plataforma RPA empresarial, estableciendo una perspectiva para la privacidad de datos y el desarrollo continuo. Hay más →"
+                    "Los trabajos se liberan para realizar tareas de mayor valor. Sigue →",
+                    "Aumento de productividad. Hay más →",
+                    "Mayor precisión. Mira lo que sigue →",
+                    "Es más rápido y fácil escalar o reducir verticalmente según sea necesario. Y esto continúa →"
                 ],
-                "cierre": "Ahora conoces lo esencial sobre errores comunes en una automatización. Tu siguiente paso: lee el contenido completo. https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-1"
+                "cierre": "Ahora conoces lo esencial sobre las ventajas de usar RPA. Tu siguiente paso: lee el contenido completo. https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=carrusel-linkedin-1"
             },
-            "texto": "Lo esencial sobre errores comunes en una automatización, en pocas láminas\nConsidera el impacto comercial antes de optar por algún proceso a automatizar con RPA. Sigue →\nCombina RPA atendido y desatendido. Hay más →\nDefine y enfócate en el ROI deseado. Mira lo que sigue →\nCéntrate en procesos correctos y viables para automatizar. Y esto continúa →\nLa gobernanza del proyecto es lo más importante en el proceso de RPA. Garantiza el cumplimiento de las políticas de la empresa. Pasa a la siguiente →\nAsegurate que proyectos e iniciativas de RPA estén alineados con los objetivos de transformación digital de mayor alcance y relevancia. Sigue →\nConsidera implementar una plataforma RPA empresarial, estableciendo una perspectiva para la privacidad de datos y el desarrollo continuo. Hay más →\nAhora conoces lo esencial sobre errores comunes en una automatización. Tu siguiente paso: lee el contenido completo. https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-1",
-            "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-1",
-            "seccion_origen": "Errores comunes en una automatización",
+            "texto": "Lo esencial sobre las ventajas de usar RPA, en pocas láminas\nLos trabajos se liberan para realizar tareas de mayor valor. Sigue →\nAumento de productividad. Hay más →\nMayor precisión. Mira lo que sigue →\nEs más rápido y fácil escalar o reducir verticalmente según sea necesario. Y esto continúa →\nAhora conoces lo esencial sobre las ventajas de usar RPA. Tu siguiente paso: lee el contenido completo. https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=carrusel-linkedin-1",
+            "enlace": "https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=carrusel-linkedin-1",
+            "seccion_origen": "Las ventajas de usar RPA",
             "validacion": {
                 "ok": true,
                 "errores": [],
@@ -65,22 +62,21 @@
             "canal": "linkedin",
             "numero": 2,
             "tema": "rpa",
-            "titulo": "Lo esencial sobre por qué automatizar con RPA, en pocas láminas",
+            "titulo": "Lo esencial sobre las ventajas de usar RPA, en pocas láminas",
             "contenido": {
-                "portada": "Lo esencial sobre por qué automatizar con RPA, en pocas láminas",
+                "portada": "Lo esencial sobre las ventajas de usar RPA, en pocas láminas",
                 "laminas": [
-                    "Permite la escalabilidad en TI. Sigue →",
-                    "Gestionar los datos para evitar riesgos en el ingreso. Hay más →",
-                    "Control de fraude. Mira lo que sigue →",
-                    "Reducción de costos. Y esto continúa →",
-                    "Precisión y reducción de errores tipográficos e información incorrecta. Pasa a la siguiente →",
-                    "Reducción de tiempos. Sigue →"
+                    "No solo es molesto para la persona que realiza el trabajo, sino que es mucho más probable que el resultado final contenga errores. Sigue →",
+                    "Probablemente también va a tardar mucho más que si la tarea la realizara un bot. Hay más →",
+                    "Aquí se encuentran dos de las mayores ventajas del uso de RPA: mayor productividad y precisión. Mira lo que sigue →",
+                    "Los trabajadores se liberan para realizar tareas de mayor valor, lo que eleva la naturaleza del trabajo que realizan. Y esto continúa →",
+                    "Nunca se cansan ni se cansan y no cometen errores; sus resultados son coherentes y confiables. Pasa a la siguiente →"
                 ],
-                "cierre": "Ahora conoces lo esencial sobre por qué automatizar con RPA. Tu siguiente paso: lee el contenido completo. https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-2"
+                "cierre": "Ahora conoces lo esencial sobre las ventajas de usar RPA. Tu siguiente paso: lee el contenido completo. https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=carrusel-linkedin-2"
             },
-            "texto": "Lo esencial sobre por qué automatizar con RPA, en pocas láminas\nPermite la escalabilidad en TI. Sigue →\nGestionar los datos para evitar riesgos en el ingreso. Hay más →\nControl de fraude. Mira lo que sigue →\nReducción de costos. Y esto continúa →\nPrecisión y reducción de errores tipográficos e información incorrecta. Pasa a la siguiente →\nReducción de tiempos. Sigue →\nAhora conoces lo esencial sobre por qué automatizar con RPA. Tu siguiente paso: lee el contenido completo. https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-2",
-            "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=carrusel-linkedin-2",
-            "seccion_origen": "¿Por qué automatizar con RPA?",
+            "texto": "Lo esencial sobre las ventajas de usar RPA, en pocas láminas\nNo solo es molesto para la persona que realiza el trabajo, sino que es mucho más probable que el resultado final contenga errores. Sigue →\nProbablemente también va a tardar mucho más que si la tarea la realizara un bot. Hay más →\nAquí se encuentran dos de las mayores ventajas del uso de RPA: mayor productividad y precisión. Mira lo que sigue →\nLos trabajadores se liberan para realizar tareas de mayor valor, lo que eleva la naturaleza del trabajo que realizan. Y esto continúa →\nNunca se cansan ni se cansan y no cometen errores; sus resultados son coherentes y confiables. Pasa a la siguiente →\nAhora conoces lo esencial sobre las ventajas de usar RPA. Tu siguiente paso: lee el contenido completo. https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=carrusel-linkedin-2",
+            "enlace": "https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=carrusel-linkedin-2",
+            "seccion_origen": "Las ventajas de usar RPA",
             "validacion": {
                 "ok": true,
                 "errores": [],
@@ -117,48 +113,26 @@
             "hora": "08:30"
         },
         {
-            "id": "infografia-1",
-            "formato": "infografia",
+            "id": "guion_video_corto-1",
+            "formato": "guion_video_corto",
             "canal": "linkedin",
             "numero": 1,
             "tema": "rpa",
-            "titulo": "Lo que debes saber sobre qué tareas puedo automatizar con RPA",
+            "titulo": "¿Qué tanto sabes sobre rentabilidad de la inversión?",
             "contenido": {
-                "titulo": "Lo que debes saber sobre qué tareas puedo automatizar con RPA",
-                "elementos": [
-                    {
-                        "texto": "Emula la acción humana.",
-                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
-                    },
-                    {
-                        "texto": "Realiza tareas repetidas de gran volumen y varias tareas complejas.",
-                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
-                    },
-                    {
-                        "texto": "Generación de informes automáticos.",
-                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
-                    },
-                    {
-                        "texto": "Validación y auditoría de la información.",
-                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
-                    },
-                    {
-                        "texto": "Brinda garantía de calidad.",
-                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
-                    },
-                    {
-                        "texto": "Permite la migración de datos.",
-                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
-                    },
-                    {
-                        "texto": "Permite predecir la previsión de ingresos.",
-                        "fuente": "Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»"
-                    }
-                ]
+                "gancho": "¿Qué tanto sabes sobre rentabilidad de la inversión?",
+                "puntos": [
+                    "Dado que no requieren código personalizado del equipo de desarrollo, los bots son una solución de muy bajo coste. Como resultado, la rentabilidad de la inversión de la implementación de una solución RPA suele lograrse en cuestión de semanas.",
+                    "Las organizaciones de diversos sectores pueden beneficiarse de la implementación de una solución RPA. Mediante la automatización de procesos, las infraestructuras de TI pueden investigar y resolver problemas más rápidamente.",
+                    "Al igual que todas las tecnologías, las funcionalidades de RPA siguen evolucionando a una velocidad rápida. Tener una solución sólida, principal y de un extremo a otro debe ser la primera prioridad de cualquier organización. Aquí es donde la hiperautomización entra en la ecuación."
+                ],
+                "cierre": "Si quieres saber más, lee el contenido completo. Y cuéntanos qué opinas en los comentarios.",
+                "palabras": 72,
+                "duracion_estimada_segundos": 29
             },
-            "texto": "Lo que debes saber sobre qué tareas puedo automatizar con RPA\nEmula la acción humana. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nRealiza tareas repetidas de gran volumen y varias tareas complejas. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nGeneración de informes automáticos. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nValidación y auditoría de la información. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nBrinda garantía de calidad. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nPermite la migración de datos. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)\nPermite predecir la previsión de ingresos. (Fuente: Guía de Automatización Robótica de Procesos RPA, sección «¿Qué tareas puedo automatizar con RPA?»)",
+            "texto": "¿Qué tanto sabes sobre rentabilidad de la inversión?\nDado que no requieren código personalizado del equipo de desarrollo, los bots son una solución de muy bajo coste. Como resultado, la rentabilidad de la inversión de la implementación de una solución RPA suele lograrse en cuestión de semanas.\nLas organizaciones de diversos sectores pueden beneficiarse de la implementación de una solución RPA. Mediante la automatización de procesos, las infraestructuras de TI pueden investigar y resolver problemas más rápidamente.\nAl igual que todas las tecnologías, las funcionalidades de RPA siguen evolucionando a una velocidad rápida. Tener una solución sólida, principal y de un extremo a otro debe ser la primera prioridad de cualquier organización. Aquí es donde la hiperautomización entra en la ecuación.\nSi quieres saber más, lee el contenido completo. Y cuéntanos qué opinas en los comentarios.",
             "enlace": null,
-            "seccion_origen": "¿Qué tareas puedo automatizar con RPA?",
+            "seccion_origen": "Rentabilidad de la inversión más rápida y cumplimiento mejorado / Determinar si su empresa puede beneficiarse de RPA / Considere la posibilidad de usar una solución de pila completa que incluya hiperautomatización",
             "validacion": {
                 "ok": true,
                 "errores": [],
@@ -166,15 +140,15 @@
             },
             "estado": "pendiente_de_aprobacion",
             "puntaje": {
-                "puntaje": 90,
+                "puntaje": 73,
                 "semaforo": "verde",
                 "confianza": "alta",
-                "tasa_esperada": 0.0434,
+                "tasa_esperada": 0.0428,
                 "detalle": {
                     "formato": {
-                        "valor": "infografia",
+                        "valor": "guion_video_corto",
                         "n": 9,
-                        "mediana": 0.0457
+                        "mediana": 0.0439
                     },
                     "tema": {
                         "valor": "rpa",
@@ -197,83 +171,34 @@
     ],
     "no_ubicadas": [
         {
-            "id": "guion_video_corto-1",
-            "formato": "guion_video_corto",
-            "canal": "linkedin",
-            "numero": 1,
-            "tema": "rpa",
-            "titulo": "¿Qué tanto sabes sobre impacto humano de RPA?",
-            "contenido": {
-                "gancho": "¿Qué tanto sabes sobre impacto humano de RPA?",
-                "puntos": [
-                    "Le dejamos a los bots lo repetitivo y a las personas lo importante. ¿Cuáles son los retos empresariales para iniciar con RPA? Habla aquí sobre el proyecto de automatización que tengas contemplado.",
-                    "Contar con bots de RPA es muy importante en todas las industrias actualmente. Datos que debes saber antes de iniciar una consultoría en RPA.",
-                    "De esta manera, debe ser un proyecto que se lleve a cabo de forma minuciosa, con acciones coordinadas y rigor. Así se abordarán posibles riesgos, barreras y preocupaciones; y evitar la ansiedad por la automatización. Prioriza los posibles casos de uso para la automatización en tu proyecto. Selecciona el caso de uso con el mayor impacto comercial esperado y asegura la aceptación de las partes interesadas."
-                ],
-                "cierre": "Si quieres saber más, lee el contenido completo. Y cuéntanos qué opinas en los comentarios.",
-                "palabras": 69,
-                "duracion_estimada_segundos": 28
-            },
-            "texto": "¿Qué tanto sabes sobre impacto humano de RPA?\nLe dejamos a los bots lo repetitivo y a las personas lo importante. ¿Cuáles son los retos empresariales para iniciar con RPA? Habla aquí sobre el proyecto de automatización que tengas contemplado.\nContar con bots de RPA es muy importante en todas las industrias actualmente. Datos que debes saber antes de iniciar una consultoría en RPA.\nDe esta manera, debe ser un proyecto que se lleve a cabo de forma minuciosa, con acciones coordinadas y rigor. Así se abordarán posibles riesgos, barreras y preocupaciones; y evitar la ansiedad por la automatización. Prioriza los posibles casos de uso para la automatización en tu proyecto. Selecciona el caso de uso con el mayor impacto comercial esperado y asegura la aceptación de las partes interesadas.\nSi quieres saber más, lee el contenido completo. Y cuéntanos qué opinas en los comentarios.",
-            "enlace": null,
-            "seccion_origen": "Impacto humano de RPA / ¿Por qué automatizar con RPA? / Metodología de implementación de RPA",
-            "validacion": {
-                "ok": true,
-                "errores": [],
-                "revisar": []
-            },
-            "estado": "pendiente_de_aprobacion",
-            "puntaje": {
-                "puntaje": 55,
-                "semaforo": "amarillo",
-                "confianza": "alta",
-                "tasa_esperada": 0.0422,
-                "detalle": {
-                    "formato": {
-                        "valor": "guion_video_corto",
-                        "n": 9,
-                        "mediana": 0.0439
-                    },
-                    "tema": {
-                        "valor": "rpa",
-                        "n": 10,
-                        "mediana": 0.0408
-                    },
-                    "mediana_global": 0.0413
-                },
-                "nota": ""
-            },
-            "motivo": "Separación mínima de 48 h con otra pieza del mismo tema"
-        },
-        {
             "id": "newsletter-1",
             "formato": "newsletter",
             "canal": "newsletter",
             "numero": 1,
             "tema": "rpa",
-            "titulo": "Guía de Automatización Robótica de Procesos RPA",
+            "titulo": "Tres ideas clave: ¿Qué es RPA?",
             "contenido": {
-                "asunto": "Guía de Automatización Robótica de Procesos RPA",
-                "introduccion": "En este correo repasamos tres ideas clave de Guía de Automatización Robótica de Procesos RPA: cómo funciona la automatización robótica RPA, impacto humano de RPA y por qué automatizar con RPA. Con nuestra guía RPA podrás conocer la información relacionada de esta tecnología y la mejor manera para identificar los procesos.",
+                "asunto": "Tres ideas clave: ¿Qué es RPA?",
+                "introduccion": "En este correo repasamos tres ideas clave de ¿Qué es RPA?: dos tipos de RPA: asistida y desasistida, las ventajas de usar RPA y determinar si su empresa puede beneficiarse de RPA. Descubra qué es la RPA con Microsoft Power Automate y descubra consejos de expertos para encontrar la solución de automatización de procesos robóticos adecuada para su negocio.",
                 "secciones": [
                     {
-                        "subtitulo": "¿Cómo funciona la automatización robótica RPA?",
-                        "texto": "En ocasiones la palabra robótica puede confundir a la persona que desconoce la tecnología. Cuando se habla de RPA se habla de un software y no de un robot físico; más bien se trabaja en software para realizar tareas repetitivas, de gran volumen para la organización y que tienen un impacto en el negocio amplio. Para entender el funcionamiento de la RPA es importante diferenciar dos tipos de automatización, que funcionan según la forma en el que dicho robot te ayuda a automatizar. La automatización asistida consiste en asistentes que se ejecutan en la máquina y te ayudan a completar una parte de las tareas que estás llevando a cabo."
+                        "subtitulo": "Dos tipos de RPA: asistida y desasistida",
+                        "texto": "La automatización atendida le permite centrarse en un trabajo de mayor valor en toda la organización. Para ello, automatiza las actividades repetitivas, manuales y de front-office e imita las acciones que realiza en el escritorio o el explorador, como los clics del mouse, grabando y reproduciendo estas acciones en tiempo real. Por el contrario, como sugiere su nombre, la automatización desatendida no requiere que alguien esté en su equipo."
                     },
                     {
-                        "subtitulo": "Impacto humano de RPA",
-                        "texto": "Le dejamos a los bots lo repetitivo y a las personas lo importante. ¿Cuáles son los retos empresariales para iniciar con RPA? El desconocimiento sobre esta automatización es una de las razones más relevantes que evitan que los empresarios adopten RPA en sus empresas. Habla aquí sobre el proyecto de automatización que tengas contemplado."
+                        "subtitulo": "Las ventajas de usar RPA",
+                        "texto": "No solo es molesto para la persona que realiza el trabajo, sino que es mucho más probable que el resultado final contenga errores. Probablemente también va a tardar mucho más que si la tarea la realizara un bot. Aquí se encuentran dos de las mayores ventajas del uso de RPA: mayor productividad y precisión."
                     },
                     {
-                        "subtitulo": "¿Por qué automatizar con RPA?",
-                        "texto": "Contar con bots de RPA es muy importante en todas las industrias actualmente. De cara a la pandemia de la COVID-19 ha explotado su potencial y ha contribuido de forma acertada a luchar contra este virus, puedes leer un poco más de cómo se están usando los bots actualmente. Datos que debes saber antes de iniciar una consultoría en RPA."
+                        "subtitulo": "Determinar si su empresa puede beneficiarse de RPA",
+                        "texto": "Las organizaciones de diversos sectores pueden beneficiarse de la implementación de una solución RPA. Al evaluar si es adecuado para su empresa, considere primero si tiene tareas de \"back-office\" que se beneficiarían de la automatización de procesos. Las empresas que proporcionan soporte y administración de TI también son candidatas principales para RPA, ya que mejora las operaciones del departamento de servicio y la supervisión de los dispositivos de red."
                     }
                 ],
-                "llamado_a_la_accion": "Si quieres profundizar, lee el contenido completo: https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=newsletter&utm_medium=email&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=newsletter-1"
+                "llamado_a_la_accion": "Si quieres profundizar, lee el contenido completo: https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=newsletter&utm_medium=email&utm_campaign=what-is-rpa-202611&utm_content=newsletter-1"
             },
-            "texto": "Guía de Automatización Robótica de Procesos RPA\n\nEn este correo repasamos tres ideas clave de Guía de Automatización Robótica de Procesos RPA: cómo funciona la automatización robótica RPA, impacto humano de RPA y por qué automatizar con RPA. Con nuestra guía RPA podrás conocer la información relacionada de esta tecnología y la mejor manera para identificar los procesos.\n\n¿Cómo funciona la automatización robótica RPA?\nEn ocasiones la palabra robótica puede confundir a la persona que desconoce la tecnología. Cuando se habla de RPA se habla de un software y no de un robot físico; más bien se trabaja en software para realizar tareas repetitivas, de gran volumen para la organización y que tienen un impacto en el negocio amplio. Para entender el funcionamiento de la RPA es importante diferenciar dos tipos de automatización, que funcionan según la forma en el que dicho robot te ayuda a automatizar. La automatización asistida consiste en asistentes que se ejecutan en la máquina y te ayudan a completar una parte de las tareas que estás llevando a cabo.\n\nImpacto humano de RPA\nLe dejamos a los bots lo repetitivo y a las personas lo importante. ¿Cuáles son los retos empresariales para iniciar con RPA? El desconocimiento sobre esta automatización es una de las razones más relevantes que evitan que los empresarios adopten RPA en sus empresas. Habla aquí sobre el proyecto de automatización que tengas contemplado.\n\n¿Por qué automatizar con RPA?\nContar con bots de RPA es muy importante en todas las industrias actualmente. De cara a la pandemia de la COVID-19 ha explotado su potencial y ha contribuido de forma acertada a luchar contra este virus, puedes leer un poco más de cómo se están usando los bots actualmente. Datos que debes saber antes de iniciar una consultoría en RPA.\n\nSi quieres profundizar, lee el contenido completo: https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=newsletter&utm_medium=email&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=newsletter-1",
-            "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=newsletter&utm_medium=email&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=newsletter-1",
-            "seccion_origen": "¿Cómo funciona la automatización robótica RPA? / Impacto humano de RPA / ¿Por qué automatizar con RPA?",
+            "texto": "Tres ideas clave: ¿Qué es RPA?\n\nEn este correo repasamos tres ideas clave de ¿Qué es RPA?: dos tipos de RPA: asistida y desasistida, las ventajas de usar RPA y determinar si su empresa puede beneficiarse de RPA. Descubra qué es la RPA con Microsoft Power Automate y descubra consejos de expertos para encontrar la solución de automatización de procesos robóticos adecuada para su negocio.\n\nDos tipos de RPA: asistida y desasistida\nLa automatización atendida le permite centrarse en un trabajo de mayor valor en toda la organización. Para ello, automatiza las actividades repetitivas, manuales y de front-office e imita las acciones que realiza en el escritorio o el explorador, como los clics del mouse, grabando y reproduciendo estas acciones en tiempo real. Por el contrario, como sugiere su nombre, la automatización desatendida no requiere que alguien esté en su equipo.\n\nLas ventajas de usar RPA\nNo solo es molesto para la persona que realiza el trabajo, sino que es mucho más probable que el resultado final contenga errores. Probablemente también va a tardar mucho más que si la tarea la realizara un bot. Aquí se encuentran dos de las mayores ventajas del uso de RPA: mayor productividad y precisión.\n\nDeterminar si su empresa puede beneficiarse de RPA\nLas organizaciones de diversos sectores pueden beneficiarse de la implementación de una solución RPA. Al evaluar si es adecuado para su empresa, considere primero si tiene tareas de \"back-office\" que se beneficiarían de la automatización de procesos. Las empresas que proporcionan soporte y administración de TI también son candidatas principales para RPA, ya que mejora las operaciones del departamento de servicio y la supervisión de los dispositivos de red.\n\nSi quieres profundizar, lee el contenido completo: https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=newsletter&utm_medium=email&utm_campaign=what-is-rpa-202611&utm_content=newsletter-1",
+            "enlace": "https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=newsletter&utm_medium=email&utm_campaign=what-is-rpa-202611&utm_content=newsletter-1",
+            "seccion_origen": "Dos tipos de RPA: asistida y desasistida / Las ventajas de usar RPA / Determinar si su empresa puede beneficiarse de RPA",
             "validacion": {
                 "ok": true,
                 "errores": [],
@@ -308,19 +233,18 @@
             "canal": "linkedin",
             "numero": 1,
             "tema": "rpa",
-            "titulo": "¿Qué tanto sabes sobre metodología de implementación de RPA?",
+            "titulo": "¿Qué tanto sabes sobre dos tipos de RPA: asistida y desasistida?",
             "contenido": {
-                "gancho": "¿Qué tanto sabes sobre metodología de implementación de RPA?",
+                "gancho": "¿Qué tanto sabes sobre dos tipos de RPA: asistida y desasistida?",
                 "desarrollo": [
-                    "Cuando se trata de automatizar con RPA es importante contar con un plan bien definido desde el inicio, el cual busque aprovechar al máximo el tiempo y los recursos necesarios para implementar esta tecnología. De esta manera, debe ser un proyecto que se lleve a cabo de forma minuciosa, con acciones coordinadas y rigor.",
-                    "Así se abordarán posibles riesgos, barreras y preocupaciones; y evitar la ansiedad por la automatización."
+                    "La automatización atendida le permite centrarse en un trabajo de mayor valor en toda la organización. Para ello, automatiza las actividades repetitivas, manuales y de front-office e imita las acciones que realiza en el escritorio o el explorador, como los clics del mouse, grabando y reproduciendo estas acciones en tiempo real."
                 ],
                 "llamado_a_la_accion": "¿Qué opinas? Cuéntanos tu experiencia en los comentarios. Si quieres profundizar, lee el contenido completo:",
-                "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-1"
+                "enlace": "https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=post-linkedin-1"
             },
-            "texto": "¿Qué tanto sabes sobre metodología de implementación de RPA?\n\nCuando se trata de automatizar con RPA es importante contar con un plan bien definido desde el inicio, el cual busque aprovechar al máximo el tiempo y los recursos necesarios para implementar esta tecnología. De esta manera, debe ser un proyecto que se lleve a cabo de forma minuciosa, con acciones coordinadas y rigor.\n\nAsí se abordarán posibles riesgos, barreras y preocupaciones; y evitar la ansiedad por la automatización.\n\n¿Qué opinas? Cuéntanos tu experiencia en los comentarios. Si quieres profundizar, lee el contenido completo:\nhttps://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-1",
-            "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-1",
-            "seccion_origen": "Metodología de implementación de RPA",
+            "texto": "¿Qué tanto sabes sobre dos tipos de RPA: asistida y desasistida?\n\nLa automatización atendida le permite centrarse en un trabajo de mayor valor en toda la organización. Para ello, automatiza las actividades repetitivas, manuales y de front-office e imita las acciones que realiza en el escritorio o el explorador, como los clics del mouse, grabando y reproduciendo estas acciones en tiempo real.\n\n¿Qué opinas? Cuéntanos tu experiencia en los comentarios. Si quieres profundizar, lee el contenido completo:\nhttps://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=post-linkedin-1",
+            "enlace": "https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=post-linkedin-1",
+            "seccion_origen": "Dos tipos de RPA: asistida y desasistida",
             "validacion": {
                 "ok": true,
                 "errores": [],
@@ -355,19 +279,19 @@
             "canal": "linkedin",
             "numero": 2,
             "tema": "rpa",
-            "titulo": "¿Cómo funciona la automatización robótica RPA?",
+            "titulo": "¿Qué tanto sabes sobre las ventajas de usar RPA?",
             "contenido": {
-                "gancho": "¿Cómo funciona la automatización robótica RPA?",
+                "gancho": "¿Qué tanto sabes sobre las ventajas de usar RPA?",
                 "desarrollo": [
-                    "En ocasiones la palabra robótica puede confundir a la persona que desconoce la tecnología. Cuando se habla de RPA se habla de un software y no de un robot físico; más bien se trabaja en software para realizar tareas repetitivas, de gran volumen para la organización y que tienen un impacto en el negocio amplio.",
-                    "Para entender el funcionamiento de la RPA es importante diferenciar dos tipos de automatización, que funcionan según la forma en el que dicho robot te ayuda a automatizar."
+                    "No solo es molesto para la persona que realiza el trabajo, sino que es mucho más probable que el resultado final contenga errores. Probablemente también va a tardar mucho más que si la tarea la realizara un bot.",
+                    "Aquí se encuentran dos de las mayores ventajas del uso de RPA: mayor productividad y precisión. Los trabajadores se liberan para realizar tareas de mayor valor, lo que eleva la naturaleza del trabajo que realizan."
                 ],
                 "llamado_a_la_accion": "¿Qué opinas? Cuéntanos tu experiencia en los comentarios. Si quieres profundizar, lee el contenido completo:",
-                "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-2"
+                "enlace": "https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=post-linkedin-2"
             },
-            "texto": "¿Cómo funciona la automatización robótica RPA?\n\nEn ocasiones la palabra robótica puede confundir a la persona que desconoce la tecnología. Cuando se habla de RPA se habla de un software y no de un robot físico; más bien se trabaja en software para realizar tareas repetitivas, de gran volumen para la organización y que tienen un impacto en el negocio amplio.\n\nPara entender el funcionamiento de la RPA es importante diferenciar dos tipos de automatización, que funcionan según la forma en el que dicho robot te ayuda a automatizar.\n\n¿Qué opinas? Cuéntanos tu experiencia en los comentarios. Si quieres profundizar, lee el contenido completo:\nhttps://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-2",
-            "enlace": "https://trycore.com/guia-de-automatizacion-con-rpa/?utm_source=linkedin&utm_medium=social-organico&utm_campaign=guia-de-automatizacion-con-rpa-202611&utm_content=post-linkedin-2",
-            "seccion_origen": "¿Cómo funciona la automatización robótica RPA?",
+            "texto": "¿Qué tanto sabes sobre las ventajas de usar RPA?\n\nNo solo es molesto para la persona que realiza el trabajo, sino que es mucho más probable que el resultado final contenga errores. Probablemente también va a tardar mucho más que si la tarea la realizara un bot.\n\nAquí se encuentran dos de las mayores ventajas del uso de RPA: mayor productividad y precisión. Los trabajadores se liberan para realizar tareas de mayor valor, lo que eleva la naturaleza del trabajo que realizan.\n\n¿Qué opinas? Cuéntanos tu experiencia en los comentarios. Si quieres profundizar, lee el contenido completo:\nhttps://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=post-linkedin-2",
+            "enlace": "https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa?utm_source=linkedin&utm_medium=social-organico&utm_campaign=what-is-rpa-202611&utm_content=post-linkedin-2",
+            "seccion_origen": "Las ventajas de usar RPA",
             "validacion": {
                 "ok": true,
                 "errores": [],
@@ -400,7 +324,11 @@
     "omitidos": [
         {
             "formato": "caso_de_exito",
-            "motivo": "La pieza madre no tiene: testimonio de un cliente real con nombre y cargo ni resultados medibles con fuente"
+            "motivo": "La pieza madre no tiene: resultados medibles con fuente"
+        },
+        {
+            "formato": "infografia",
+            "motivo": "No hay contenido suficiente y seguro de la pieza madre para redactarlo"
         }
     ]
 }

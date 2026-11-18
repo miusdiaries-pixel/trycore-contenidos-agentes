@@ -1,220 +1,85 @@
 {
     "fuente": {
-        "url": "https://trycore.com/guia-de-automatizacion-con-rpa/",
-        "origen": "respaldo",
-        "avisos": [
-            "No se pudo descargar la URL: cURL error 28: Operation timed out after 20000 milliseconds with 999395 bytes received (see https://curl.se/libcurl/c/libcurl-errors.html) for https://trycore.com/guia-de-automatizacion-con-rpa/",
-            "Se usó la copia local de respaldo"
-        ]
+        "url": "https://www.microsoft.com/es-co/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa",
+        "origen": "web",
+        "avisos": []
     },
-    "titulo": "Guía de Automatización Robótica de Procesos RPA • Trycore",
-    "descripcion": "Con nuestra guía RPA podrás conocer la información relacionada de esta tecnología y la mejor manera para identificar los procesos.",
+    "titulo": "¿Qué es RPA?",
+    "descripcion": "Descubra qué es la RPA con Microsoft Power Automate y descubra consejos de expertos para encontrar la solución de automatización de procesos robóticos adecuada para su negocio.",
     "indicadores": {
-        "palabras": 3464,
-        "secciones": 19,
-        "temas_desarrollables": 17,
-        "listas": 16,
-        "elementos_mayor_lista": 10,
-        "pasos_numerados": 5,
-        "cifras": 2,
-        "cifras_sin_fuente": 2,
-        "palabras_por_frase": 17.9,
-        "legibilidad": "buena",
+        "palabras": 1177,
+        "secciones": 10,
+        "temas_desarrollables": 7,
+        "listas": 3,
+        "elementos_mayor_lista": 5,
+        "pasos_numerados": 0,
+        "cifras": 0,
+        "cifras_sin_fuente": 0,
+        "palabras_por_frase": 21.9,
+        "legibilidad": "media",
         "productos_vigentes_mencionados": []
     },
     "temas": [
         {
             "titulo": "Introducción",
-            "palabras": 193,
-            "desarrollable": true
-        },
-        {
-            "titulo": "¿Qué es RPA?",
-            "palabras": 66,
-            "desarrollable": true
-        },
-        {
-            "titulo": "Características de la automatización robótica de procesos (RPA)",
-            "palabras": 71,
-            "desarrollable": true
-        },
-        {
-            "titulo": "¿Cómo funciona la automatización robótica RPA?",
-            "palabras": 274,
-            "desarrollable": true
-        },
-        {
-            "titulo": "Mitos de automatización robótica RPA",
-            "palabras": 103,
-            "desarrollable": true
-        },
-        {
-            "titulo": "Impacto humano de RPA",
-            "palabras": 264,
-            "desarrollable": true
-        },
-        {
-            "titulo": "¿Por qué automatizar con RPA?",
-            "palabras": 195,
-            "desarrollable": true
-        },
-        {
-            "titulo": "¿Qué tareas puedo automatizar con RPA?",
             "palabras": 148,
             "desarrollable": true
         },
         {
-            "titulo": "¿Cómo debes elegir un proceso para automatizar con RPA?",
+            "titulo": "Agilice sus proyectos de RPA con Power Automate",
             "palabras": 0,
             "desarrollable": false
         },
         {
-            "titulo": "Metodología de implementación de RPA",
-            "palabras": 376,
+            "titulo": "Dos tipos de RPA: asistida y desasistida",
+            "palabras": 145,
             "desarrollable": true
         },
         {
-            "titulo": "¿Qué herramientas de automatización robótica hay? Conoce las mejores plataformas",
-            "palabras": 295,
+            "titulo": "Las ventajas de usar RPA",
+            "palabras": 217,
             "desarrollable": true
         },
         {
-            "titulo": "¿Cómo obtener valor en las pruebas de concepto de RPA?",
-            "palabras": 142,
+            "titulo": "Rentabilidad de la inversión más rápida y cumplimiento mejorado",
+            "palabras": 94,
             "desarrollable": true
         },
         {
-            "titulo": "Errores comunes en una automatización",
-            "palabras": 296,
+            "titulo": "Determinar si su empresa puede beneficiarse de RPA",
+            "palabras": 187,
             "desarrollable": true
         },
         {
-            "titulo": "¿Cómo medir el rendimiento de la automatización RPA?",
-            "palabras": 143,
-            "desarrollable": true
-        },
-        {
-            "titulo": "Mide el éxito de tu implementación RPA",
-            "palabras": 21,
+            "titulo": "¿Quién puede aprovechar RPA?",
+            "palabras": 37,
             "desarrollable": false
         },
         {
-            "titulo": "¿Cómo escalar RPA?",
-            "palabras": 182,
+            "titulo": "Características que se deben buscar al elegir el software RPA",
+            "palabras": 159,
             "desarrollable": true
         },
         {
-            "titulo": "Entonces, ¿cómo se escala una automatización?",
-            "palabras": 135,
+            "titulo": "Considere la posibilidad de usar una solución de pila completa que incluya hiperautomatización",
+            "palabras": 106,
             "desarrollable": true
         },
         {
-            "titulo": "Construye un Centro de Excelencia",
-            "palabras": 202,
-            "desarrollable": true
+            "titulo": "Empieza con una RPA",
+            "palabras": 0,
+            "desarrollable": false
         },
         {
-            "titulo": "Entonces, ¿cuál es el futuro de la automatización?",
-            "palabras": 87,
-            "desarrollable": true
-        },
-        {
-            "titulo": "¿Tienes una idea sobre como aprovechar esta tecnología?",
-            "palabras": 24,
+            "titulo": "Sigue a Power Platform",
+            "palabras": 0,
             "desarrollable": false
         }
     ],
-    "cifras": [
-        {
-            "valor": "4.0",
-            "frase": "RPA tiene el potencial de transformar la metodología de trabajo y de impulsar de la transformación que propone la industria 4.0, además, es posible obtener un r",
-            "con_fuente": false
-        },
-        {
-            "valor": "100%",
-            "frase": "La precisión del robot de RPA es del 100%.",
-            "con_fuente": false
-        }
-    ],
+    "cifras": [],
     "nombres_propios_no_vigentes": [
         {
-            "nombre": "Centro",
-            "veces": 4
-        },
-        {
-            "nombre": "Excelencia",
-            "veces": 3
-        },
-        {
-            "nombre": "Automatización Robótica",
-            "veces": 2
-        },
-        {
-            "nombre": "Conoce",
-            "veces": 2
-        },
-        {
-            "nombre": "PoC",
-            "veces": 2
-        },
-        {
-            "nombre": "Robotic Process Automation",
-            "veces": 1
-        },
-        {
-            "nombre": "Inicio",
-            "veces": 1
-        },
-        {
-            "nombre": "Además",
-            "veces": 1
-        },
-        {
-            "nombre": "Piensa",
-            "veces": 1
-        },
-        {
-            "nombre": "Martín",
-            "veces": 1
-        },
-        {
-            "nombre": "Jesús Segura",
-            "veces": 1
-        },
-        {
-            "nombre": "Turbo",
-            "veces": 1
-        },
-        {
-            "nombre": "Razones",
-            "veces": 1
-        },
-        {
-            "nombre": "Procesos",
-            "veces": 1
-        },
-        {
-            "nombre": "Cómo",
-            "veces": 1
-        },
-        {
-            "nombre": "Asigna",
-            "veces": 1
-        },
-        {
-            "nombre": "Elegir",
-            "veces": 1
-        },
-        {
-            "nombre": "Comparación",
-            "veces": 1
-        },
-        {
-            "nombre": "Excel",
-            "veces": 1
-        },
-        {
-            "nombre": "Macros",
+            "nombre": "Fácil",
             "veces": 1
         }
     ],
@@ -230,7 +95,7 @@
         {
             "formato": "carrusel_linkedin",
             "apto": true,
-            "razon": "Hay una lista o pasos de 10 elementos (mínimo 5)",
+            "razon": "Hay una lista o pasos de 5 elementos (mínimo 5)",
             "requiere": [
                 "una lista, pasos o comparación de al menos 5 elementos"
             ]
@@ -238,7 +103,7 @@
         {
             "formato": "newsletter",
             "apto": true,
-            "razon": "Hay 17 temas desarrollables (mínimo 3)",
+            "razon": "Hay 7 temas desarrollables (mínimo 3)",
             "requiere": [
                 "al menos 3 temas desarrollables"
             ]
@@ -254,7 +119,7 @@
         {
             "formato": "caso_de_exito",
             "apto": false,
-            "razon": "La pieza madre no tiene: testimonio de un cliente real con nombre y cargo ni resultados medibles con fuente",
+            "razon": "La pieza madre no tiene: resultados medibles con fuente",
             "requiere": [
                 "testimonio de un cliente real con nombre y cargo",
                 "resultados medibles de ese cliente"
@@ -263,31 +128,13 @@
         {
             "formato": "infografia",
             "apto": true,
-            "razon": "Hay una lista o pasos de 10 elementos; se usarán 5 a 7",
+            "razon": "Hay una lista o pasos de 5 elementos; se usarán 5 a 7",
             "requiere": [
                 "5 a 7 datos o pasos; si son datos, cada uno con su fuente"
             ]
         }
     ],
     "alertas": [
-        {
-            "nivel": "alta",
-            "tipo": "fuente",
-            "mensaje": "No se pudo descargar la URL: se usó la copia local de respaldo",
-            "detalle": "No se pudo descargar la URL: cURL error 28: Operation timed out after 20000 milliseconds with 999395 bytes received (see https://curl.se/libcurl/c/libcurl-errors.html) for https://trycore.com/guia-de-automatizacion-con-rpa/ | Se usó la copia local de respaldo"
-        },
-        {
-            "nivel": "media",
-            "tipo": "cifra_sin_fuente",
-            "mensaje": "Cifra «4.0» sin fuente en la pieza madre: marcar para revisión",
-            "detalle": "RPA tiene el potencial de transformar la metodología de trabajo y de impulsar de la transformación que propone la industria 4.0, además, es posible obtener un r"
-        },
-        {
-            "nivel": "media",
-            "tipo": "cifra_sin_fuente",
-            "mensaje": "Cifra «100%» sin fuente en la pieza madre: marcar para revisión",
-            "detalle": "La precisión del robot de RPA es del 100%."
-        },
         {
             "nivel": "info",
             "tipo": "productos",
@@ -297,7 +144,7 @@
         {
             "nivel": "info",
             "tipo": "nombres_propios",
-            "mensaje": "Nombres propios que no son productos vigentes (no deben aparecer como productos en las derivadas): Centro, Excelencia, Automatización Robótica, Conoce, PoC, Robotic Process Automation, Inicio, Además",
+            "mensaje": "Nombres propios que no son productos vigentes (no deben aparecer como productos en las derivadas): Fácil",
             "detalle": null
         }
     ]

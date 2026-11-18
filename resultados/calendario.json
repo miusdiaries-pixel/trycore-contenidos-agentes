@@ -48,7 +48,7 @@
             "hora": "08:30",
             "formato": "carrusel_linkedin",
             "tema": "rpa",
-            "titulo": "Lo esencial sobre errores comunes en una automatización, en pocas láminas",
+            "titulo": "Lo esencial sobre las ventajas de usar RPA, en pocas láminas",
             "estado": "pendiente_de_aprobacion",
             "puntaje": {
                 "puntaje": 97,
@@ -82,7 +82,7 @@
             "hora": "08:30",
             "formato": "carrusel_linkedin",
             "tema": "rpa",
-            "titulo": "Lo esencial sobre por qué automatizar con RPA, en pocas láminas",
+            "titulo": "Lo esencial sobre las ventajas de usar RPA, en pocas láminas",
             "estado": "pendiente_de_aprobacion",
             "puntaje": {
                 "puntaje": 97,
@@ -111,23 +111,23 @@
             }
         },
         {
-            "id": "infografia-1",
+            "id": "guion_video_corto-1",
             "fecha": "2026-12-09",
             "hora": "08:30",
-            "formato": "infografia",
+            "formato": "guion_video_corto",
             "tema": "rpa",
-            "titulo": "Lo que debes saber sobre qué tareas puedo automatizar con RPA",
+            "titulo": "¿Qué tanto sabes sobre rentabilidad de la inversión?",
             "estado": "pendiente_de_aprobacion",
             "puntaje": {
-                "puntaje": 90,
+                "puntaje": 73,
                 "semaforo": "verde",
                 "confianza": "alta",
-                "tasa_esperada": 0.0434,
+                "tasa_esperada": 0.0428,
                 "detalle": {
                     "formato": {
-                        "valor": "infografia",
+                        "valor": "guion_video_corto",
                         "n": 9,
-                        "mediana": 0.0457
+                        "mediana": 0.0439
                     },
                     "tema": {
                         "valor": "rpa",
@@ -146,11 +146,6 @@
         }
     ],
     "no_ubicadas": [
-        {
-            "id": "guion_video_corto-1",
-            "formato": "guion_video_corto",
-            "motivo": "Separación mínima de 48 h con otra pieza del mismo tema"
-        },
         {
             "id": "newsletter-1",
             "formato": "newsletter",
